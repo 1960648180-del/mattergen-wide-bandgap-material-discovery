@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnGaNO
+_chemical_formula_sum              "Zn1 Ga1 N1 O1"
+_cell_length_a       3.2521425834864437
+_cell_length_b       3.2515467238708013
+_cell_length_c       5.307941436767578
+_cell_angle_alpha    89.97376091728107
+_cell_angle_beta     89.9718484627308
+_cell_angle_gamma    120.04199569495638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.8438031066599785  0.42908570209663344  0.785680830970703  1.0000
+  Ga  Ga1       1.0  0.1760289371602907  0.09648235924275977  0.2699436837254151  1.0000
+  N   N1        1.0  0.8427389860425838  0.429425894735626  0.16686634792776497  1.0000
+  O   O1        1.0  0.17649038001202197  0.09616337646283243  0.6419086462575586  1.0000

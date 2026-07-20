@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CZnIO5
+_chemical_formula_sum              "C1 Zn1 I1 O5"
+_cell_length_a       4.099578393851702
+_cell_length_b       4.96068439888514
+_cell_length_c       6.464382171630859
+_cell_angle_alpha    87.194358833568
+_cell_angle_beta     84.77071434854403
+_cell_angle_gamma    78.44418390712208
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.28965049950679195  0.5189185147272476  0.6466005447569819  1.0000
+  Zn  Zn1       1.0  0.19726346335769898  0.02892988235360742  0.8974961637713104  1.0000
+  I   I1        1.0  0.5518160467261  0.22951063605536304  0.25237613876708614  1.0000
+  O   O1        1.0  0.18580792840550894  0.28820613125866307  0.6475148802341605  1.0000
+  O   O2        1.0  0.6889734851250966  0.015652271351206747  0.010548818586811929  1.0000
+  O   O3        1.0  0.3998759972665817  0.6151325709234534  0.46415326041561034  1.0000
+  O   O4        1.0  0.29348218531656795  0.6423986563642967  0.8167855744562076  1.0000
+  O   O5        1.0  0.12605096407041771  0.24014243516148961  0.18191969399285352  1.0000

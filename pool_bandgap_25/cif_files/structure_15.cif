@@ -1,0 +1,27 @@
+data_image0
+_chemical_formula_structural       MgSe
+_chemical_formula_sum              "Mg1 Se1"
+_cell_length_a       3.8950722270505085
+_cell_length_b       3.8954154874901277
+_cell_length_c       3.895312786102295
+_cell_angle_alpha    59.978529910107014
+_cell_angle_beta     59.97992191560639
+_cell_angle_gamma    59.978884261649306
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.22885711499969352  0.732856570531255  0.4019229722329561  1.0000
+  Se  Se1       1.0  0.7273404013158802  0.2311798770787339  0.9011301992252745  1.0000

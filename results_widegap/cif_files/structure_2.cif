@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       OCuTmO
+_chemical_formula_sum              "O2 Cu1 Tm1"
+_cell_length_a       3.4902142381601515
+_cell_length_b       3.490806947127431
+_cell_length_c       6.0681047439575195
+_cell_angle_alpha    73.28209681297982
+_cell_angle_beta     73.26516461166736
+_cell_angle_gamma    60.00362935942603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.8547316189818638  0.23023703665882336  0.16149315327098804  1.0000
+  Cu  Cu1       1.0  0.7476125379331998  0.12321942889725862  0.4831138551453679  1.0000
+  Tm  Tm1       1.0  0.24770405799974698  0.6230924739011363  0.9833649393372795  1.0000
+  O   O2        1.0  0.6405455478883781  0.015971175469136973  0.8040755383585986  1.0000

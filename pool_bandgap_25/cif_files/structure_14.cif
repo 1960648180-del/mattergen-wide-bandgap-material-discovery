@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       TbKO2
+_chemical_formula_sum              "Tb1 K1 O2"
+_cell_length_a       3.4891886055059858
+_cell_length_b       3.4894414423097917
+_cell_length_c       6.571399211883545
+_cell_angle_alpha    74.68841101978167
+_cell_angle_beta     74.70658082791375
+_cell_angle_gamma    60.024289411645064
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.08169227190413379  0.04251771051547154  0.010790220193388964  1.0000
+  K   K1        1.0  0.5813698761638648  0.5422905680019888  0.511389255893418  1.0000
+  O   O1        1.0  0.8109344238901087  0.7713168866167641  0.8243326549301156  1.0000
+  O   O2        1.0  0.3531517978306592  0.31400912893030825  0.19769798307305872  1.0000

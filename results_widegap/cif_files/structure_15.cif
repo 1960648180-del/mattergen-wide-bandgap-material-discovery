@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       TiNa2ScO4
+_chemical_formula_sum              "Ti1 Na2 Sc1 O4"
+_cell_length_a       3.1081455452996636
+_cell_length_b       5.388306548748858
+_cell_length_c       5.75453519821167
+_cell_angle_alpha    107.97293486940792
+_cell_angle_beta     89.96601548625463
+_cell_angle_gamma    89.97728529288382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.3929803077815928  0.6897338023019178  0.813223062960292  1.0000
+  Na  Na1       1.0  0.8930645569493807  0.6898689867130149  0.3132737575665317  1.0000
+  Na  Na2       1.0  0.3930922155105108  0.18984842376111  0.3130538466800192  1.0000
+  Sc  Sc1       1.0  0.8930436364134452  0.1897784775787406  0.8132696744792547  1.0000
+  O   O1        1.0  0.8931394223797077  0.4597029981104772  0.6081586481670264  1.0000
+  O   O2        1.0  0.39330002806618564  0.4325676566401035  0.01571093880982521  1.0000
+  O   O3        1.0  0.3932272507002994  0.9481133220465592  0.6103388664663109  1.0000
+  O   O4        1.0  0.8929232941216738  0.9199429741360979  0.018416520975058415  1.0000

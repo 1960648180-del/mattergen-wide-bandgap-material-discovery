@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       IBrInBr4I
+_chemical_formula_sum              "I2 Br5 In1"
+_cell_length_a       7.521286618764228
+_cell_length_b       8.343520589862521
+_cell_length_c       7.760341644287109
+_cell_angle_alpha    98.01652689473426
+_cell_angle_beta     103.52900876968079
+_cell_angle_gamma    118.66519461620469
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.9729674450769024  0.8787319061374421  0.2717748873272505  1.0000
+  Br  Br1       1.0  0.9035770896591773  0.34938082075332383  0.22951830938134932  1.0000
+  In  In1       1.0  0.6268252136468174  0.3298395273416135  0.3543862704310686  1.0000
+  Br  Br2       1.0  0.23694548027600718  0.09509438236006008  0.09797631955364902  1.0000
+  Br  Br3       1.0  0.6215144398282322  0.22699877549773353  0.6501064896405336  1.0000
+  Br  Br4       1.0  0.3069981035539484  0.6927590963903099  0.8743845825258378  1.0000
+  Br  Br5       1.0  0.6773837212376473  0.6760022045190026  0.42879620174091987  1.0000
+  I   I2        1.0  0.4264267981757622  0.46700900863952205  0.773547768813849  1.0000

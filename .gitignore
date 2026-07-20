@@ -1,0 +1,45 @@
+# Virtual environment
+.venv/
+
+# Pretrained model checkpoints (~440MB each)
+checkpoints/
+
+# PyTorch CUDA wheels (*.whl, ~2.4GB)
+*.whl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Download scripts (personal use)
+download_model.py
+download_finetuned.py
+check_hf.py
+batch_generate.py
+
+# Original MatterGen source (reference only)
+.azure/
+.github/
+assets/
+benchmark/
+data-release/
+datasets/
+mattergen/
+sampling_conf/
+.lfsconfig
+pyproject.toml
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+MODEL_CARD.md
+NOTICE
+SECURITY.md
+README.md
+
+# Old/unused result directories
+results/
+results_bulk_150/
+
+# OS files
+.DS_Store
+Thumbs.db
