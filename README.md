@@ -1,103 +1,114 @@
 # 基于扩散模型的宽禁带半导体候选材料发现
 
-使用 Microsoft MatterGen 扩散模型，以 **dft_band_gap** 为条件，生成宽禁带半导体候选晶体结构。
+> **本项目基于 Microsoft MatterGen 开源模型进行二次应用，以下为独立研究成果。**
 
-## 目标
+## 项目简介
 
-针对 4 个禁带宽度目标进行条件生成，每个目标生成 16 个候选结构：
+使用 Microsoft MatterGen（Nature 2025）扩散模型，以 **dft_band_gap** 为条件属性，定向生成宽禁带半导体候选晶体结构。共生成 **64 个候选结构**，覆盖 4 个带隙目标。
 
-| 目标带隙 | 目录 | 结构数 |
-|---------|------|-------|
-| 2.5 eV | `pool_bandgap_25/` | 16 |
-| 3.0 eV | `results_widegap/` | 16 |
-| 3.5 eV | `pool_bandgap_35/` | 16 |
-| 4.0 eV | `pool_bandgap_40/` | 16 |
+## 生成结果
 
-**合计：64 个候选结构**
+| 目标带隙 | 目录 | 结构数 | CIF 文件 |
+|---------|------|-------|---------|
+| 2.5 eV | `pool_bandgap_25/` | 16 | ✅ |
+| 3.0 eV | `results_widegap/` | 16 | ✅ |
+| 3.5 eV | `pool_bandgap_35/` | 16 | ✅ |
+| 4.0 eV | `pool_bandgap_40/` | 16 | ✅ |
 
-## 数据格式
+**合计：64 个候选晶体结构**
 
-每个目录包含：
-- `cif_files/structure_{1..16}.cif` — 晶体结构文件 (CIF 格式)
+## 数据说明
+
+每个结果目录包含：
+- `cif_files/structure_{1..16}.cif` — 单个晶体结构文件（CIF 格式）
 - `generated_crystals.extxyz` — 所有结构的 EXTXYZ 汇总
 - `generated_crystals_cif.zip` — CIF 文件打包
 - `generated_trajectories.zip` — 生成轨迹
 
-## 方法
+## 实验条件
 
-- **模型**: MatterGen (Microsoft, Nature 2025)
-- **条件属性**: `dft_band_gap`（来自 DFT 数据集训练的代理模型）
+- **模型**: MatterGen fine-tuned on `dft_band_gap`
 - **扩散指导因子**: 2.0
-- **硬件**: NVIDIA GeForce RTX 4060 Laptop GPU (8GB)
+- **每个目标采样**: 16 个结构（batch_size=16, num_batches=1）
+- **硬件**: NVIDIA GeForce RTX 4060 Laptop GPU（8GB）
+- **环境**: Python 3.10 + PyTorch 2.4.1+cu121
 
-## 后续工作（考后待办）
+## 后续计划
 
-1. **结构弛豫** — 使用 MatterSim 对 64 个候选结构进行弛豫优化
+1. **MatterSim 结构弛豫** — 优化 64 个候选结构
 2. **去重筛选** — 去除相似结构，筛选 Top-5
-3. **化学合理性检查** — 检查形成能、键长、对称性等
-4. **结果整理** — 用于复试材料展示
-[![arXiv](https://img.shields.io/badge/arXiv-2312.03687-blue.svg?logo=arxiv&logoColor=white.svg)](https://arxiv.org/abs/2312.03687)
-[![Requires Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)](https://python.org/downloads)
-</h4>
+3. **化学合理性检查** — 形成能、键长、对称性
+4. **结果整理** — 用于复试展示
 
-MatterGen is a generative model for inorganic materials design across the periodic table that can be fine-tuned to steer the generation towards a wide range of property constraints.
+---
 
+<details>
+<summary><b>📖 模型使用参考（基于 Microsoft MatterGen 官方文档）</b></summary>
 
-## Table of Contents
-- [Installation](#installation)
-- [Get started with a pre-trained model](#get-started-with-a-pre-trained-model)
-- [Generating materials](#generating-materials)
-- [Evaluation](#evaluation)
-- [Train MatterGen yourself](#train-mattergen-yourself)
-- [Data release](#data-release)
-- [Citation](#citation)
-- [Trademarks](#trademarks)
-- [Responsible AI Transparency Documentation](#responsible-ai-transparency-documentation)
-- [Get in touch](#get-in-touch)
+> 以下内容为 Microsoft MatterGen 原版文档，供环境搭建和模型使用参考。
 
-## Installation
+### 环境安装
 
-
-The easiest way to install prerequisites is via [uv](https://docs.astral.sh/uv/), a fast Python package and project manager.
-
-The MatterGen environment can be installed via the following command (assumes you are running Linux and have a CUDA GPU):
 ```bash
 pip install uv
-uv venv .venv --python 3.10 
+uv venv .venv --python 3.10
 source .venv/bin/activate
 uv pip install -e .
 ```
 
-Note that our datasets and model checkpoints are provided inside this repo via [Git Large File Storage (LFS)](https://git-lfs.com/).
-To find out whether LFS is installed on your machine, run
+### 可用预训练模型
+
+| 模型 | 说明 |
+|------|------|
+| `mattergen_base` | 无条件基模型（Alex-MP-20） |
+| `mp_20_base` | 无条件基模型（MP-20） |
+| `dft_band_gap` | 条件模型：带隙 |
+| `dft_mag_density` | 条件模型：磁矩 |
+| `ml_bulk_modulus` | 条件模型：体模量 |
+| `chemical_system` | 条件模型：化学体系 |
+| `space_group` | 条件模型：空间群 |
+
+### 无条件生成
+
 ```bash
-git lfs --version
+mattergen-generate results/ --pretrained-name=mattergen_base --batch_size=16 --num_batches=1
 ```
-If this prints some version like `git-lfs/3.0.2 (GitHub; linux amd64; go 1.18.1)`, you can skip the following step.
 
-### Install Git LFS
-If Git LFS was not installed before you cloned this repo, you can install it via:
+### 条件生成（本项目的使用方法）
+
 ```bash
-sudo apt install git-lfs
-git lfs install
+mattergen-generate <输出目录> \
+  --model_path=checkpoints/dft_band_gap \
+  --batch_size=16 --num_batches=1 \
+  --properties_to_condition_on="{dft_band_gap:<目标值>}" \
+  --diffusion_guidance_factor=2.0
 ```
 
-### Apple Silicon
-> [!WARNING]
-> Running MatterGen on Apple Silicon is **experimental**. Use at your own risk.  
-> Further, you need to run `export PYTORCH_ENABLE_MPS_FALLBACK=1` before any training or generation run.
+### 弛豫评估
 
-## Get started with a pre-trained model
-We provide checkpoints of an unconditional base version of MatterGen as well as fine-tuned models for these properties:
-* `mattergen_base`: unconditional base model trained on Alex-MP-20
-* `mp_20_base`: unconditional base model trained on MP-20
-* `chemical_system`: fine-tuned model conditioned on chemical system
-* `space_group`: fine-tuned model conditioned on space group
-* `dft_mag_density`: fine-tuned model conditioned on magnetic density from DFT
-* `dft_band_gap`: fine-tuned model conditioned on band gap from DFT
-* `ml_bulk_modulus`: fine-tuned model conditioned on bulk modulus from ML predictor
-* `dft_mag_density_hhi_score`: fine-tuned model jointly conditioned on magnetic density from DFT and HHI score
-* `chemical_system_energy_above_hull`: fine-tuned model jointly conditioned on chemical system and energy above hull from DFT
+```bash
+mattergen-evaluate --structures_path=$RESULTS_PATH --relax=True --save_as="metrics.json"
+```
+
+> 完整文档请参阅 [Microsoft MatterGen 原版仓库](https://github.com/microsoft/mattergen)。
+
+</details>
+
+---
+
+## 引用
+
+若引用 MatterGen 模型，请引用原始论文：
+
+```bibtex
+@article{MatterGen2025,
+  author  = {Zeni, Claudio and Pinsler, Robert and Z{\"u}gner, Daniel et al.},
+  journal = {Nature},
+  title   = {A generative model for inorganic materials design},
+  year    = {2025},
+  doi     = {10.1038/s41586-025-08628-5},
+}
+```
 
 The checkpoints are located at `checkpoints/<model_name>` and are also available on [Hugging Face](https://huggingface.co/microsoft/mattergen). By default, they are downloaded from Huggingface when requested. You can also manually download them from Git LFS via 
 ```bash
