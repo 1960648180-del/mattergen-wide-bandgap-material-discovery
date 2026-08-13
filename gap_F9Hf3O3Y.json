@@ -1,0 +1,18 @@
+[
+  {
+    "cif": "f9hf3o3y_posrelaxed.cif",
+    "formula": "F9Hf3O3Y",
+    "n_atoms": 16,
+    "total_energy": -102.4052,
+    "energy_per_atom": -6.4003,
+    "homo": 0.7012,
+    "lumo": 4.8704,
+    "pbe_bandgap": 4.1691,
+    "mag_moment_uB": -0.002,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  }
+]

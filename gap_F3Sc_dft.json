@@ -1,0 +1,18 @@
+[
+  {
+    "cif": "dft_F3Sc.cif",
+    "formula": "F3Sc",
+    "n_atoms": 4,
+    "total_energy": -22.6337,
+    "energy_per_atom": -5.6584,
+    "homo": -2.5628,
+    "lumo": 3.8693,
+    "pbe_bandgap": 6.4321,
+    "mag_moment_uB": -0.0,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  }
+]

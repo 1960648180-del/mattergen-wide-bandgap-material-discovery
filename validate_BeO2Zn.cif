@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       ZnBeO2
+_chemical_formula_sum              "Zn1 Be1 O2"
+_cell_length_a       2.987186574077217
+_cell_length_b       2.9873144152153546
+_cell_length_c       4.974140089734865
+_cell_angle_alpha    89.99336924846878
+_cell_angle_beta     90.01130574094589
+_cell_angle_gamma    120.00407034719258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.0422109363212101  0.9073548184802713  0.8234867301398033  1.0000
+  Be  Be1       1.0  0.7083847513922273  0.24087676721588724  0.3219396519573505  1.0000
+  O   O1        1.0  0.7087939313729984  0.2407303822610572  0.6443657008516742  1.0000
+  O   O2        1.0  0.04217133634153913  0.9074197941510599  0.21861826683490446  1.0000

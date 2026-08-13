@@ -1,0 +1,66 @@
+[
+  {
+    "cif": "chgnet_relaxed_rand_C2N2.cif",
+    "formula": "C2N2",
+    "n_atoms": 4,
+    "total_energy": -30.0608,
+    "energy_per_atom": -7.5152,
+    "homo": 1.6216,
+    "lumo": 2.2241,
+    "pbe_bandgap": 0.6024,
+    "mag_moment_uB": -0.001,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_rand_O5.cif",
+    "formula": "O5",
+    "n_atoms": 5,
+    "total_energy": -16.1344,
+    "energy_per_atom": -3.2269,
+    "homo": -2.5389,
+    "lumo": -1.9298,
+    "pbe_bandgap": 0.609,
+    "mag_moment_uB": 1.999,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_fe_KO2Pr.cif",
+    "formula": "KO2Pr",
+    "n_atoms": 4,
+    "total_energy": -23.2837,
+    "energy_per_atom": -5.8209,
+    "homo": 7.9274,
+    "lumo": 7.9138,
+    "pbe_bandgap": -0.0137,
+    "mag_moment_uB": 2.0,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_fe_DyKO2.cif",
+    "formula": "DyKO2",
+    "n_atoms": 4,
+    "total_energy": -23.7076,
+    "energy_per_atom": -5.9269,
+    "homo": 7.3785,
+    "lumo": 7.3796,
+    "pbe_bandgap": 0.0011,
+    "mag_moment_uB": 5.0,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "cif": "f6rb3y_posrelaxed_new.cif",
+  "formula": "F6Rb3Y",
+  "n_atoms": 10,
+  "scf_kpts": [
+    4,
+    4,
+    4
+  ],
+  "dense_kpts": [
+    8,
+    8,
+    8
+  ],
+  "E_total": -44.3416,
+  "E_per_atom": -4.4342,
+  "HL_homo": -1.0368,
+  "HL_lumo": 4.8189,
+  "HL_gap": 5.8558,
+  "path_vbm": -1.0214,
+  "path_cbm": 4.6834,
+  "path_gap": 5.7048,
+  "path_vbm_k": [
+    -0.333,
+    -0.333,
+    -0.0
+  ],
+  "path_cbm_k": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "dense_vbm": -1.0327,
+  "dense_cbm": 4.7177,
+  "dense_gap": 5.7505,
+  "dense_vbm_k": [
+    0.062,
+    0.312,
+    0.312
+  ],
+  "dense_cbm_k": [
+    0.062,
+    0.062,
+    0.062
+  ]
+}

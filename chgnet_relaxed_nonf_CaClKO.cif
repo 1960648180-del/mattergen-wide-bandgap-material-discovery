@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       KClCaO
+_chemical_formula_sum              "K1 Cl1 Ca1 O1"
+_cell_length_a       3.720551615197708
+_cell_length_b       3.7205531094588973
+_cell_length_c       7.335550253740632
+_cell_angle_alpha    75.26861619236239
+_cell_angle_beta     75.25991188220277
+_cell_angle_gamma    60.0452212815391
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.44240838932814197  0.7705288147140386  0.05451527838939766  1.0000
+  Cl  Cl1       1.0  0.6669258688092721  0.9951400223935147  0.381644966092598  1.0000
+  Ca  Ca1       1.0  0.9063961245174487  0.23473667719268704  0.6636344195650898  1.0000
+  O   O1        1.0  0.1958016596654994  0.5242608988288107  0.7937408427436196  1.0000

@@ -1,0 +1,1562 @@
+{
+  "Al2Br3S": {
+    "source": "results_widegap",
+    "source_idx": 12,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -24.796056747436523
+  },
+  "Al2F12Rb6": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 14,
+    "n_atoms": 20,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -104.38857078552246
+  },
+  "Al2FLiO3": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 6,
+    "n_atoms": 7,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -48.87602519989014
+  },
+  "Al3B4DyO12": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 13,
+    "n_atoms": 20,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -166.9001579284668
+  },
+  "Al3O5": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 15,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -59.791053771972656
+  },
+  "Al4BN2O2Si3": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 1,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -76.96463012695312
+  },
+  "Al5Hf3Ta4": {
+    "source": "results_bulk_150",
+    "source_idx": 7,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -98.9212646484375
+  },
+  "AlCaF2N": {
+    "source": "pool_bandgap_40",
+    "source_idx": 2,
+    "n_atoms": 5,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -30.636718273162842
+  },
+  "AlCl6Cs2Na": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 18,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -39.63664531707764
+  },
+  "AlF6Mn": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 19,
+    "n_atoms": 8,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -50.555076599121094
+  },
+  "AlPd5Sn": {
+    "source": "results_bulk_150",
+    "source_idx": 11,
+    "n_atoms": 7,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -37.55651044845581
+  },
+  "As2Ho2O8": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 9,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -92.17704391479492
+  },
+  "As3O6SiZn": {
+    "source": "pool_bandgap_25",
+    "source_idx": 1,
+    "n_atoms": 11,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -69.74323797225952
+  },
+  "AsF6Rb": {
+    "source": "pool_bandgap_35",
+    "source_idx": 10,
+    "n_atoms": 8,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -39.092655181884766
+  },
+  "AsF9O3SZr2": {
+    "source": "pool_bandgap_35",
+    "source_idx": 9,
+    "n_atoms": 16,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -106.8337173461914
+  },
+  "Au2Ce6N2": {
+    "source": "results",
+    "source_idx": 15,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -67.38263607025146
+  },
+  "AuCl7KSb": {
+    "source": "pool_bandgap_35",
+    "source_idx": 0,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -34.70612287521362
+  },
+  "B2O4Rb2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 6,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -55.39634704589844
+  },
+  "B4O6Rb": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 1,
+    "n_atoms": 11,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -86.70130205154419
+  },
+  "Ba2I2": {
+    "source": "pool_bandgap_35",
+    "source_idx": 6,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -13.223343849182129
+  },
+  "Ba2O6SrW": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 3,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -77.66669273376465
+  },
+  "Ba6FO5": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 12,
+    "n_atoms": 12,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -72.61031341552734
+  },
+  "BaCsKO7P2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 11,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -82.55170440673828
+  },
+  "BaF6Si": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 16,
+    "n_atoms": 8,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -49.46986389160156
+  },
+  "Be2Br2F8K3Li2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 10,
+    "n_atoms": 17,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -82.38469457626343
+  },
+  "Be2FeSi": {
+    "source": "results",
+    "source_idx": 10,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -22.142269134521484
+  },
+  "BeO2Zn": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 9,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -24.070968627929688
+  },
+  "Bi2BrO3": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 17,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -32.50224781036377
+  },
+  "Br2CaHg": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 4,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -12.481396675109863
+  },
+  "Br2Cl2F10O6": {
+    "source": "results_widegap",
+    "source_idx": 8,
+    "n_atoms": 20,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -73.4244155883789
+  },
+  "Br2Cs2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 8,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -13.198445320129395
+  },
+  "Br2Cs2F5O3": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 17,
+    "n_atoms": 12,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -47.684532165527344
+  },
+  "Br2CsK": {
+    "source": "pool_bandgap_35",
+    "source_idx": 5,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -13.463586807250977
+  },
+  "Br2KRb": {
+    "source": "pool_bandgap_25",
+    "source_idx": 0,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -13.505655288696289
+  },
+  "Br2O6P2Sr2": {
+    "source": "pool_bandgap_25",
+    "source_idx": 9,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -80.70509719848633
+  },
+  "Br2Ti": {
+    "source": "pool_bandgap_25",
+    "source_idx": 8,
+    "n_atoms": 3,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -15.42843246459961
+  },
+  "Br3CdLiRb2": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 0,
+    "n_atoms": 7,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -20.53461217880249
+  },
+  "Br4GeMg": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 12,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -21.023609161376953
+  },
+  "Br5I2In": {
+    "source": "results_widegap",
+    "source_idx": 11,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -19.93107795715332
+  },
+  "Br6Cs2Hf": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 6,
+    "n_atoms": 9,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -39.80614900588989
+  },
+  "Br6Cs3Sc": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 8,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -39.94645118713379
+  },
+  "Br6CsHo": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 7,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -28.712148666381836
+  },
+  "Br6ErNaRb2": {
+    "source": "results_widegap",
+    "source_idx": 3,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -38.96422863006592
+  },
+  "Br8Cs4In2Li2": {
+    "source": "results",
+    "source_idx": 1,
+    "n_atoms": 16,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -53.4975471496582
+  },
+  "Br9Fe2Na": {
+    "source": "pool_bandgap_35",
+    "source_idx": 11,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -44.290080070495605
+  },
+  "BrCl2I": {
+    "source": "pool_bandgap_40",
+    "source_idx": 3,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -8.44686508178711
+  },
+  "C2H2Hf6O2": {
+    "source": "results_bulk_150",
+    "source_idx": 13,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -111.0402717590332
+  },
+  "C2Li6N4": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 15,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -70.9892635345459
+  },
+  "C2N2": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 4,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -34.04235076904297
+  },
+  "C3Cs2O12PSi2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 4,
+    "n_atoms": 20,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -148.82770538330078
+  },
+  "CIO5Zn": {
+    "source": "results_widegap",
+    "source_idx": 15,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -47.131412506103516
+  },
+  "CLa2NO": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 14,
+    "n_atoms": 5,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -39.12893056869507
+  },
+  "CMn2Sc2Si2": {
+    "source": "results_bulk_150",
+    "source_idx": 8,
+    "n_atoms": 7,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -55.48160362243652
+  },
+  "Ca2Cs2F6": {
+    "source": "results",
+    "source_idx": 7,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -54.49268341064453
+  },
+  "CaCl4Na": {
+    "source": "results_widegap",
+    "source_idx": 4,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -23.026172161102295
+  },
+  "CaClKO": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 9,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -20.210100173950195
+  },
+  "CaO3Zr": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 17,
+    "n_atoms": 5,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -43.0292272567749
+  },
+  "Cd2O7Si2": {
+    "source": "pool_bandgap_25",
+    "source_idx": 4,
+    "n_atoms": 11,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -71.2919487953186
+  },
+  "CdCrF4": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 13,
+    "n_atoms": 6,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -34.25375461578369
+  },
+  "Ce2La2O8": {
+    "source": "pool_bandgap_25",
+    "source_idx": 12,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -103.82123565673828
+  },
+  "Cl2CsK": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 10,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -14.634331703186035
+  },
+  "Cl3F3Sb2Sn4": {
+    "source": "pool_bandgap_40",
+    "source_idx": 5,
+    "n_atoms": 12,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -53.456960678100586
+  },
+  "Cl3LiPb": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 9,
+    "n_atoms": 5,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -19.723814725875854
+  },
+  "Cl4MgNa2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 10,
+    "n_atoms": 7,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -26.535916090011597
+  },
+  "Cl4N4Sr4": {
+    "source": "results_widegap",
+    "source_idx": 6,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -68.60648918151855
+  },
+  "Cl6CuIRb2": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 11,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -32.567524909973145
+  },
+  "ClCs2O5S": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 11,
+    "n_atoms": 9,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -45.222571849823
+  },
+  "ClEr2O4Pr": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 2,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -64.92076873779297
+  },
+  "ClF5Na2": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 5,
+    "n_atoms": 8,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -29.409576416015625
+  },
+  "ClK4O": {
+    "source": "pool_bandgap_35",
+    "source_idx": 13,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -19.442041397094727
+  },
+  "Co3Ga10Hf3": {
+    "source": "results",
+    "source_idx": 5,
+    "n_atoms": 16,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -87.68401336669922
+  },
+  "CoTi8V2": {
+    "source": "results_bulk_150",
+    "source_idx": 1,
+    "n_atoms": 11,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -88.37534713745117
+  },
+  "Cr2FLi2O9P2": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 1,
+    "n_atoms": 16,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -121.74774932861328
+  },
+  "Cr2K2O7Rb": {
+    "source": "pool_bandgap_25",
+    "source_idx": 5,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -81.12610816955566
+  },
+  "Cs2I6LaNa": {
+    "source": "pool_bandgap_35",
+    "source_idx": 15,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -34.42357301712036
+  },
+  "Cs4Li4O4": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 7,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -49.39095497131348
+  },
+  "Cs4N6S6": {
+    "source": "pool_bandgap_25",
+    "source_idx": 10,
+    "n_atoms": 16,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -85.51685333251953
+  },
+  "Cs8Li4O6": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 2,
+    "n_atoms": 18,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -69.04864740371704
+  },
+  "CsF2Na": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 12,
+    "n_atoms": 4,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -17.205707550048828
+  },
+  "CsNaO7Ta2": {
+    "source": "pool_bandgap_25",
+    "source_idx": 3,
+    "n_atoms": 11,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -89.88733100891113
+  },
+  "Cu4Fe2": {
+    "source": "results_bulk_150",
+    "source_idx": 9,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -32.53940677642822
+  },
+  "Cu4Ga4Sr4": {
+    "source": "results",
+    "source_idx": 13,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -38.81785297393799
+  },
+  "Cu4P4Sm2": {
+    "source": "results",
+    "source_idx": 14,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -54.247374534606934
+  },
+  "CuIrScTi": {
+    "source": "results_bulk_150",
+    "source_idx": 14,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -29.525672912597656
+  },
+  "CuKO4SmZn": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 5,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -48.02878952026367
+  },
+  "CuO2Tm": {
+    "source": "results_widegap",
+    "source_idx": 1,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -29.455766677856445
+  },
+  "CuO6Sm2W": {
+    "source": "pool_bandgap_25",
+    "source_idx": 15,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -84.16765213012695
+  },
+  "Dy2GaIr4Si3": {
+    "source": "results_bulk_150",
+    "source_idx": 3,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -73.85322570800781
+  },
+  "Dy2O6P": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 3,
+    "n_atoms": 9,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -74.2412281036377
+  },
+  "DyKO2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 9,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -27.976057052612305
+  },
+  "DyN2Y": {
+    "source": "results_bulk_150",
+    "source_idx": 10,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -35.083961486816406
+  },
+  "Er2Ge4Rh4": {
+    "source": "results_bulk_150",
+    "source_idx": 0,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -65.74510097503662
+  },
+  "ErKS2": {
+    "source": "pool_bandgap_35",
+    "source_idx": 1,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -22.39190101623535
+  },
+  "F10Sb2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 7,
+    "n_atoms": 12,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -58.34519004821777
+  },
+  "F12K6Y2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 0,
+    "n_atoms": 20,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -113.68343353271484
+  },
+  "F12Ti2V2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 19,
+    "n_atoms": 16,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -112.67654418945312
+  },
+  "F13Li4Tm3": {
+    "source": "pool_bandgap_40",
+    "source_idx": 6,
+    "n_atoms": 20,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -124.23206329345703
+  },
+  "F15LiOVW2": {
+    "source": "results_widegap",
+    "source_idx": 2,
+    "n_atoms": 20,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -126.97816848754883
+  },
+  "F2Lu2O2": {
+    "source": "pool_bandgap_40",
+    "source_idx": 9,
+    "n_atoms": 6,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -47.7068395614624
+  },
+  "F2O2": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 1,
+    "n_atoms": 4,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -15.196626663208008
+  },
+  "F3La": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 0,
+    "n_atoms": 4,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -28.498493194580078
+  },
+  "F3MgTl": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 3,
+    "n_atoms": 5,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -24.90408420562744
+  },
+  "F3Sc": {
+    "source": "pool_bandgap_35",
+    "source_idx": 7,
+    "n_atoms": 4,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -29.114072799682617
+  },
+  "F3Tb": {
+    "source": "pool_bandgap_40",
+    "source_idx": 1,
+    "n_atoms": 4,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -27.971240997314453
+  },
+  "F4LiMn": {
+    "source": "pool_bandgap_40",
+    "source_idx": 0,
+    "n_atoms": 6,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -36.16903781890869
+  },
+  "F5K5": {
+    "source": "pool_bandgap_40",
+    "source_idx": 13,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -44.18406963348389
+  },
+  "F5Lu4O4": {
+    "source": "pool_bandgap_40",
+    "source_idx": 8,
+    "n_atoms": 13,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -99.71160650253296
+  },
+  "F5NaOW": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 6,
+    "n_atoms": 8,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -51.346336364746094
+  },
+  "F6Fe2Li2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 12,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -59.85367774963379
+  },
+  "F6FeSc": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 19,
+    "n_atoms": 8,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -53.84934616088867
+  },
+  "F6Ge2O2": {
+    "source": "pool_bandgap_40",
+    "source_idx": 12,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -51.07840538024902
+  },
+  "F6HoRb3": {
+    "source": "results_widegap",
+    "source_idx": 0,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -54.934396743774414
+  },
+  "F6KLi2Sc": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 13,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -57.6123571395874
+  },
+  "F6Li5Na": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 3,
+    "n_atoms": 12,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -59.28335952758789
+  },
+  "F6Mg2Rb2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 17,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -51.017799377441406
+  },
+  "F6NaRb2Sm": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 4,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -54.91175651550293
+  },
+  "F6NaSrTi": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 0,
+    "n_atoms": 9,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -55.453508377075195
+  },
+  "F6Rb3Y": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 11,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -56.19823455810547
+  },
+  "F7ILiRb": {
+    "source": "pool_bandgap_35",
+    "source_idx": 3,
+    "n_atoms": 10,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -41.7427921295166
+  },
+  "F9Hf3O3Y": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 13,
+    "n_atoms": 16,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -134.00099182128906
+  },
+  "FGaO3V": {
+    "source": "pool_bandgap_40",
+    "source_idx": 15,
+    "n_atoms": 6,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -43.8934850692749
+  },
+  "FLaNa2O2": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 18,
+    "n_atoms": 6,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -36.71939277648926
+  },
+  "FLi3O3V": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 5,
+    "n_atoms": 8,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -52.276824951171875
+  },
+  "FO3Tm2": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 2,
+    "n_atoms": 6,
+    "has_F": true,
+    "has_f": true,
+    "chgnet_E": -48.2354850769043
+  },
+  "Fe2O6TiZr": {
+    "source": "results_bulk_150",
+    "source_idx": 4,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -90.38177490234375
+  },
+  "Ga2Ru2Y4": {
+    "source": "results",
+    "source_idx": 9,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -54.806453704833984
+  },
+  "GaNOZn": {
+    "source": "results_widegap",
+    "source_idx": 10,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -22.225542068481445
+  },
+  "Gd2HgNaO10Se2": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 12,
+    "n_atoms": 16,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -119.35257720947266
+  },
+  "Ge2Li9O9": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 18,
+    "n_atoms": 20,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -114.12506103515625
+  },
+  "GeLiMnRh": {
+    "source": "results",
+    "source_idx": 6,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -24.193023681640625
+  },
+  "GeMgO10P3": {
+    "source": "results_widegap",
+    "source_idx": 7,
+    "n_atoms": 15,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -109.61281299591064
+  },
+  "H10K2N4": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 16,
+    "n_atoms": 16,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -76.51483917236328
+  },
+  "H2Br2Li2": {
+    "source": "pool_bandgap_40",
+    "source_idx": 11,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -20.96134614944458
+  },
+  "H2Cl2O2Sr2": {
+    "source": "pool_bandgap_35",
+    "source_idx": 12,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -43.06563949584961
+  },
+  "H2Cl6CsSm": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 8,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -42.22945690155029
+  },
+  "H2Cs2S2": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 19,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -22.476480960845947
+  },
+  "H2F2": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 11,
+    "n_atoms": 4,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -17.58502769470215
+  },
+  "H2K2O2": {
+    "source": "pool_bandgap_35",
+    "source_idx": 14,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -28.272025108337402
+  },
+  "H2Rh6Sc2": {
+    "source": "results",
+    "source_idx": 3,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -69.19102668762207
+  },
+  "H3FeMoO6": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 17,
+    "n_atoms": 11,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -76.16994047164917
+  },
+  "H3O3PrZn": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 10,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -44.974124908447266
+  },
+  "H3O4Sb": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 5,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -45.97407150268555
+  },
+  "H4BRb": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 14,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -24.058576583862305
+  },
+  "H4Li2O2": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 13,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -37.29050827026367
+  },
+  "H4Na2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 4,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -16.719534873962402
+  },
+  "H5B2Na3O2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 2,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -57.03358268737793
+  },
+  "H6Al2": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 16,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -28.130680084228516
+  },
+  "H6F2O6Pb2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 0,
+    "n_atoms": 16,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -82.79301452636719
+  },
+  "H6FN2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 3,
+    "n_atoms": 9,
+    "has_F": true,
+    "has_f": false,
+    "chgnet_E": -44.27942132949829
+  },
+  "H7BN2O6": {
+    "source": "pool_bandgap_40",
+    "source_idx": 10,
+    "n_atoms": 16,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -95.32933807373047
+  },
+  "H7Rh6Si": {
+    "source": "results_bulk_150",
+    "source_idx": 2,
+    "n_atoms": 14,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -75.40343475341797
+  },
+  "H8AlBLi2": {
+    "source": "pool_bandgap_40",
+    "source_idx": 4,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -45.29889965057373
+  },
+  "H8Cl4N2": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 15,
+    "n_atoms": 14,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -61.03627681732178
+  },
+  "HO2Tl": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 5,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -20.096385955810547
+  },
+  "Hg2O8S2": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 1,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -66.15541076660156
+  },
+  "I5TaTe2": {
+    "source": "pool_bandgap_35",
+    "source_idx": 8,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -30.89576530456543
+  },
+  "I6MnRb2": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 14,
+    "n_atoms": 9,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -30.128196001052856
+  },
+  "I6Zr2": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 8,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -36.11845397949219
+  },
+  "IO2Pr": {
+    "source": "pool_bandgap_35",
+    "source_idx": 2,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -25.42204475402832
+  },
+  "IRb": {
+    "source": "pool_bandgap_40",
+    "source_idx": 7,
+    "n_atoms": 2,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -5.870526313781738
+  },
+  "InNa2O4V": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 8,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -51.297611236572266
+  },
+  "InPd4Rh3Tb12": {
+    "source": "results",
+    "source_idx": 12,
+    "n_atoms": 20,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -114.4967269897461
+  },
+  "KO2Pr": {
+    "source": "extended_pool/bg_30",
+    "source_idx": 6,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -27.304580688476562
+  },
+  "KO2Tb": {
+    "source": "pool_bandgap_25",
+    "source_idx": 13,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -27.893863677978516
+  },
+  "LaRbS2": {
+    "source": "results_widegap",
+    "source_idx": 9,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -22.65522575378418
+  },
+  "Li2MnO7V3": {
+    "source": "pool_bandgap_25",
+    "source_idx": 6,
+    "n_atoms": 13,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -105.31820487976074
+  },
+  "Li2O2PrS2Tb": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 7,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -52.90150451660156
+  },
+  "Li2O9P3": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 18,
+    "n_atoms": 14,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -99.14074039459229
+  },
+  "Li8S3Se": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 15,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -48.433427810668945
+  },
+  "LiO11Re3": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 14,
+    "n_atoms": 15,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -125.56680679321289
+  },
+  "LuO3Tm": {
+    "source": "extended_pool/bg_45",
+    "source_idx": 10,
+    "n_atoms": 5,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -43.96226406097412
+  },
+  "MgMn4O5": {
+    "source": "results_bulk_150",
+    "source_idx": 15,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -84.18277740478516
+  },
+  "MgSe": {
+    "source": "pool_bandgap_25",
+    "source_idx": 14,
+    "n_atoms": 2,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -7.904500961303711
+  },
+  "Mn2Pd8Tm": {
+    "source": "results_bulk_150",
+    "source_idx": 6,
+    "n_atoms": 11,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -69.15185117721558
+  },
+  "MoSi2TiV2": {
+    "source": "results",
+    "source_idx": 0,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -50.96597671508789
+  },
+  "N2O6WZr3": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 16,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -118.24460220336914
+  },
+  "Na2O4ScTi": {
+    "source": "results_widegap",
+    "source_idx": 14,
+    "n_atoms": 8,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -60.40101623535156
+  },
+  "Na4S8Sc3Ti": {
+    "source": "results",
+    "source_idx": 4,
+    "n_atoms": 16,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -94.86827850341797
+  },
+  "NaO6Sr2W": {
+    "source": "results",
+    "source_idx": 8,
+    "n_atoms": 10,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -73.37892055511475
+  },
+  "NbO4Ta": {
+    "source": "results_widegap",
+    "source_idx": 13,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -59.622488021850586
+  },
+  "Nd2O8P2": {
+    "source": "pool_bandgap_25",
+    "source_idx": 11,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -101.26007080078125
+  },
+  "Nd5Pr4Tb7": {
+    "source": "results",
+    "source_idx": 2,
+    "n_atoms": 16,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -74.82169342041016
+  },
+  "NdO11Re2Ti": {
+    "source": "results_bulk_150",
+    "source_idx": 12,
+    "n_atoms": 15,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -127.56806373596191
+  },
+  "O12Sb7Ti": {
+    "source": "pool_bandgap_25",
+    "source_idx": 7,
+    "n_atoms": 20,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -134.3559741973877
+  },
+  "O14S4Sb2": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 19,
+    "n_atoms": 20,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -128.4672737121582
+  },
+  "O2Rb4": {
+    "source": "extended_pool/bg_35",
+    "source_idx": 15,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -20.386728286743164
+  },
+  "O3STm2": {
+    "source": "extended_pool/bg_40",
+    "source_idx": 18,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -44.94265937805176
+  },
+  "O4S3Sm2Zr2": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 16,
+    "n_atoms": 11,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -92.06902313232422
+  },
+  "O4SiV": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 2,
+    "n_atoms": 6,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -50.870195388793945
+  },
+  "O5": {
+    "source": "extended_pool/bg_25",
+    "source_idx": 7,
+    "n_atoms": 5,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -23.192081451416016
+  },
+  "O8Rb2S2": {
+    "source": "results_widegap",
+    "source_idx": 5,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -72.42572021484375
+  },
+  "O9P2Ti": {
+    "source": "pool_bandgap_25",
+    "source_idx": 2,
+    "n_atoms": 12,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -88.98809623718262
+  },
+  "Pb3Pd6": {
+    "source": "results",
+    "source_idx": 11,
+    "n_atoms": 9,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -44.21933555603027
+  },
+  "Pt3Tb": {
+    "source": "results_bulk_150",
+    "source_idx": 5,
+    "n_atoms": 4,
+    "has_F": false,
+    "has_f": true,
+    "chgnet_E": -26.684307098388672
+  },
+  "Rb7S9Si2": {
+    "source": "pool_bandgap_40",
+    "source_idx": 14,
+    "n_atoms": 18,
+    "has_F": false,
+    "has_f": false,
+    "chgnet_E": -77.9463243484497
+  }
+}

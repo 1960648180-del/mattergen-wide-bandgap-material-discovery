@@ -41,3 +41,24 @@ results_bulk_150/
 # OS files
 .DS_Store
 Thumbs.db
+
+# 生成数据大目录 (可重建, 不入库)
+extended_pool/
+pool_bandgap_25/
+pool_bandgap_35/
+pool_bandgap_40/
+results_widegap/
+chgnet_relaxed_all/
+
+# WSL 根文件系统拷贝 (勿提交)
+usr/
+etc/
+root/
+ubuntu-*.tar*
+ubuntu2404.appx
+tb3.in
+
+# 日志与临时
+*.log
+*.bak
+_tmp_*.py

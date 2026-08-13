@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FBaSiF5
+_chemical_formula_sum              "F6 Ba1 Si1"
+_cell_length_a       4.840551864822129
+_cell_length_b       4.843528877913203
+_cell_length_c       4.842642649649175
+_cell_angle_alpha    98.14524727756604
+_cell_angle_beta     98.15043814369523
+_cell_angle_gamma    98.16218937386633
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.773739820131079  0.39337324304574983  0.5886676831230305  1.0000
+  Ba  Ba1       1.0  0.5267892772924604  0.817393719251677  0.34063955458119055  1.0000
+  Si  Si1       1.0  0.026637928250096362  0.31712811954637865  0.8407904553504785  1.0000
+  F   F2        1.0  0.7741228878858898  0.06458751139924596  0.9172698275042914  1.0000
+  F   F3        1.0  0.9502236968461489  0.5692784145625946  0.09335915219342637  1.0000
+  F   F4        1.0  0.10300654761621636  0.06490604017554955  0.5881534362633007  1.0000
+  F   F5        1.0  0.27914701497826455  0.5693989825888262  0.7643686891971174  1.0000
+  F   F6        1.0  0.27903171502438234  0.2403931261146802  0.09302446545132334  1.0000

@@ -1,0 +1,2358 @@
+[
+  {
+    "formula": "H2F2",
+    "bandgap_eV": 8.535,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -3.5806,
+    "mag_uB": -0.0,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -17.58502769470215,
+    "homo": -4.9241,
+    "lumo": 3.6109,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "BaF6Si",
+    "bandgap_eV": 7.8901,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -4.897,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -49.46986389160156,
+    "homo": 1.4749,
+    "lumo": 9.3649,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F6Li5Na",
+    "bandgap_eV": 7.1493,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -4.1131,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -59.28335952758789,
+    "homo": -2.0885,
+    "lumo": 5.0608,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Ca2Cs2F6",
+    "bandgap_eV": 7.0704,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -4.4407,
+    "mag_uB": -0.002,
+    "source": "results",
+    "chgnet_E": -54.49268341064453,
+    "homo": 0.8943,
+    "lumo": 7.9647,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F3La",
+    "bandgap_eV": 6.6738,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -5.805,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -28.498493194580078,
+    "homo": 0.8827,
+    "lumo": 7.5565,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F6Mg2Rb2",
+    "bandgap_eV": 6.6645,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -4.0889,
+    "mag_uB": 0.001,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -51.017799377441406,
+    "homo": -0.7598,
+    "lumo": 5.9047,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F6KLi2Sc",
+    "bandgap_eV": 6.4263,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -4.6107,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -57.6123571395874,
+    "homo": -0.9389,
+    "lumo": 5.4874,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F3Sc",
+    "bandgap_eV": 6.4225,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -5.662,
+    "mag_uB": -0.0,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -29.114072799682617,
+    "homo": -2.5746,
+    "lumo": 3.8479,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H4BRb",
+    "bandgap_eV": 6.3382,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -3.8994,
+    "mag_uB": 0.001,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -24.058576583862305,
+    "homo": -2.1221,
+    "lumo": 4.216,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F5K5",
+    "bandgap_eV": 5.9649,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -3.6445,
+    "mag_uB": 0.001,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -44.18406963348389,
+    "homo": -0.688,
+    "lumo": 5.2769,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CsF2Na",
+    "bandgap_eV": 5.9335,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -3.4427,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -17.205707550048828,
+    "homo": 0.8709,
+    "lumo": 6.8044,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F6Rb3Y",
+    "bandgap_eV": 5.8613,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -4.4332,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -56.19823455810547,
+    "homo": -1.0424,
+    "lumo": 4.8188,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Al2FLiO3",
+    "bandgap_eV": 5.8221,
+    "category": "氧氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 7,
+    "energy_per_atom": -5.7012,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -48.87602519989014,
+    "homo": 3.9324,
+    "lumo": 9.7544,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H8AlBLi2",
+    "bandgap_eV": 5.273,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -3.6242,
+    "mag_uB": 0.001,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -45.29889965057373,
+    "homo": -1.7448,
+    "lumo": 3.5282,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Cl2CsK",
+    "bandgap_eV": 5.2294,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -3.3518,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -14.634331703186035,
+    "homo": 0.1324,
+    "lumo": 5.3617,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "AsF6Rb",
+    "bandgap_eV": 5.1226,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -3.6,
+    "mag_uB": 0.0,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -39.092655181884766,
+    "homo": -2.0803,
+    "lumo": 3.0422,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Cl4MgNa2",
+    "bandgap_eV": 5.122,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 7,
+    "energy_per_atom": -3.4222,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -26.535916090011597,
+    "homo": -0.0104,
+    "lumo": 5.1116,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F3MgTl",
+    "bandgap_eV": 5.1179,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 5,
+    "energy_per_atom": -4.0017,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -24.90408420562744,
+    "homo": 2.4519,
+    "lumo": 7.5697,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br2Cs2",
+    "bandgap_eV": 4.6109,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -2.9928,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -13.198445320129395,
+    "homo": 0.8861,
+    "lumo": 5.497,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br2KRb",
+    "bandgap_eV": 4.5787,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -3.0963,
+    "mag_uB": -0.001,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -13.505655288696289,
+    "homo": -0.5047,
+    "lumo": 4.0739,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br2CsK",
+    "bandgap_eV": 4.5455,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -3.0876,
+    "mag_uB": -0.001,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -13.463586807250977,
+    "homo": -0.045,
+    "lumo": 4.5004,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br2O6P2Sr2",
+    "bandgap_eV": 4.4848,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -5.4142,
+    "mag_uB": -0.001,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -80.70509719848633,
+    "homo": 1.733,
+    "lumo": 6.2178,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H2Cl2O2Sr2",
+    "bandgap_eV": 4.3747,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -4.6095,
+    "mag_uB": 0.0,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -43.06563949584961,
+    "homo": 2.2069,
+    "lumo": 6.5816,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H2K2O2",
+    "bandgap_eV": 4.3387,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -3.9513,
+    "mag_uB": -0.001,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -28.272025108337402,
+    "homo": 1.2999,
+    "lumo": 5.6386,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CaClKO",
+    "bandgap_eV": 4.2597,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -4.3115,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -20.210100173950195,
+    "homo": 2.7764,
+    "lumo": 7.0362,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "IRb",
+    "bandgap_eV": 4.1702,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 2,
+    "energy_per_atom": -2.7209,
+    "mag_uB": -0.0,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -5.870526313781738,
+    "homo": 0.0351,
+    "lumo": 4.2054,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "AlCl6Cs2Na",
+    "bandgap_eV": 4.1211,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -3.5565,
+    "mag_uB": -0.003,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -39.63664531707764,
+    "homo": 1.3561,
+    "lumo": 5.4772,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "B2O4Rb2",
+    "bandgap_eV": 4.0292,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -5.7137,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -55.39634704589844,
+    "homo": 2.7523,
+    "lumo": 6.7815,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CaO3Zr",
+    "bandgap_eV": 3.997,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 5,
+    "energy_per_atom": -7.092,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -43.0292272567749,
+    "homo": 4.546,
+    "lumo": 8.543,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F5NaOW",
+    "bandgap_eV": 3.9411,
+    "category": "氧氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -5.1784,
+    "mag_uB": -0.0,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -51.346336364746094,
+    "homo": -2.3679,
+    "lumo": 1.5733,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F10Sb2",
+    "bandgap_eV": 3.918,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -3.5249,
+    "mag_uB": -0.002,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -58.34519004821777,
+    "homo": -2.7003,
+    "lumo": 1.2177,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H6Al2",
+    "bandgap_eV": 3.9014,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -3.3167,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -28.130680084228516,
+    "homo": -2.02,
+    "lumo": 1.8813,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H2Cs2S2",
+    "bandgap_eV": 3.6631,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -3.5502,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -22.476480960845947,
+    "homo": 1.5727,
+    "lumo": 5.2357,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F2Lu2O2",
+    "bandgap_eV": 3.6291,
+    "category": "氧氟",
+    "near_metal": false,
+    "has_f": true,
+    "n_atoms": 6,
+    "energy_per_atom": -6.215,
+    "mag_uB": 0.0,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -47.7068395614624,
+    "homo": 5.6198,
+    "lumo": 9.2489,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Li8S3Se",
+    "bandgap_eV": 3.5751,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -3.9009,
+    "mag_uB": 0.001,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -48.433427810668945,
+    "homo": 1.4913,
+    "lumo": 5.0664,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br2CaHg",
+    "bandgap_eV": 3.4654,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -3.0427,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -12.481396675109863,
+    "homo": -0.8811,
+    "lumo": 2.5843,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H5B2Na3O2",
+    "bandgap_eV": 3.3273,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -4.3155,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -57.03358268737793,
+    "homo": -0.0832,
+    "lumo": 3.2441,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br6Cs2Hf",
+    "bandgap_eV": 3.3085,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 9,
+    "energy_per_atom": -3.7762,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -39.80614900588989,
+    "homo": 1.0095,
+    "lumo": 4.318,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br4GeMg",
+    "bandgap_eV": 3.2001,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -3.1367,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -21.023609161376953,
+    "homo": 0.9864,
+    "lumo": 4.1865,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "BeO2Zn",
+    "bandgap_eV": 3.1083,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -4.8013,
+    "mag_uB": -0.0,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -24.070968627929688,
+    "homo": 4.3375,
+    "lumo": 7.4458,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H3O4Sb",
+    "bandgap_eV": 3.0857,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -4.6057,
+    "mag_uB": -0.0,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -45.97407150268555,
+    "homo": 1.5815,
+    "lumo": 4.6673,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H7BN2O6",
+    "bandgap_eV": 3.0612,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 16,
+    "energy_per_atom": -4.8519,
+    "mag_uB": -0.001,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -95.32933807373047,
+    "homo": -1.0544,
+    "lumo": 2.0068,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Ba2O6SrW",
+    "bandgap_eV": 2.9076,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -6.4522,
+    "mag_uB": -0.0,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -77.66669273376465,
+    "homo": 5.9972,
+    "lumo": 8.9047,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "FLaNa2O2",
+    "bandgap_eV": 2.8892,
+    "category": "氧氟",
+    "near_metal": false,
+    "has_f": true,
+    "n_atoms": 6,
+    "energy_per_atom": -5.0388,
+    "mag_uB": -0.0,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -36.71939277648926,
+    "homo": 3.6083,
+    "lumo": 6.4975,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "LaRbS2",
+    "bandgap_eV": 2.8703,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -5.3548,
+    "mag_uB": 0.0,
+    "source": "results_widegap",
+    "chgnet_E": -22.65522575378418,
+    "homo": 3.8646,
+    "lumo": 6.735,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Cl3LiPb",
+    "bandgap_eV": 2.8189,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 5,
+    "energy_per_atom": -3.5462,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -19.723814725875854,
+    "homo": 1.1989,
+    "lumo": 4.0178,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Cs4Li4O4",
+    "bandgap_eV": 2.7019,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -3.3721,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -49.39095497131348,
+    "homo": 4.711,
+    "lumo": 7.4129,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "N2O6WZr3",
+    "bandgap_eV": 2.68,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -8.125,
+    "mag_uB": 0.003,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -118.24460220336914,
+    "homo": 6.2846,
+    "lumo": 8.9646,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F7ILiRb",
+    "bandgap_eV": 2.5729,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -2.8939,
+    "mag_uB": -0.003,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -41.7427921295166,
+    "homo": 0.2189,
+    "lumo": 2.7918,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "GaNOZn",
+    "bandgap_eV": 2.5205,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -4.4281,
+    "mag_uB": -0.0,
+    "source": "results_widegap",
+    "chgnet_E": -22.225542068481445,
+    "homo": 4.7361,
+    "lumo": 7.2566,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "MgSe",
+    "bandgap_eV": 2.5111,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 2,
+    "energy_per_atom": -3.7659,
+    "mag_uB": -0.0,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -7.904500961303711,
+    "homo": 4.6045,
+    "lumo": 7.1156,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "AlCaF2N",
+    "bandgap_eV": 2.373,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 5,
+    "energy_per_atom": -5.0164,
+    "mag_uB": 0.0,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -30.636718273162842,
+    "homo": 6.7793,
+    "lumo": 9.1523,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "BaCsKO7P2",
+    "bandgap_eV": 2.3218,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -5.473,
+    "mag_uB": -0.002,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -82.55170440673828,
+    "homo": 3.3143,
+    "lumo": 5.6361,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H8Cl4N2",
+    "bandgap_eV": 2.277,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 14,
+    "energy_per_atom": -3.8565,
+    "mag_uB": 0.001,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -61.03627681732178,
+    "homo": -1.7527,
+    "lumo": 0.5243,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F2O2",
+    "bandgap_eV": 2.2665,
+    "category": "氧氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -2.179,
+    "mag_uB": -0.0,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -15.196626663208008,
+    "homo": -2.4871,
+    "lumo": -0.2206,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Hg2O8S2",
+    "bandgap_eV": 2.2089,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -4.0523,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -66.15541076660156,
+    "homo": 1.9539,
+    "lumo": 4.1628,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br3CdLiRb2",
+    "bandgap_eV": 2.0025,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 7,
+    "energy_per_atom": -2.5646,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -20.53461217880249,
+    "homo": 0.2257,
+    "lumo": 2.2282,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F6FeSc",
+    "bandgap_eV": 1.7767,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -5.2723,
+    "mag_uB": 4.999,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -53.84934616088867,
+    "homo": -0.6763,
+    "lumo": 1.1004,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H10K2N4",
+    "bandgap_eV": 1.7428,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 16,
+    "energy_per_atom": -4.199,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -76.51483917236328,
+    "homo": 0.5445,
+    "lumo": 2.2873,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "BrCl2I",
+    "bandgap_eV": 1.4944,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -1.7487,
+    "mag_uB": 0.0,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -8.44686508178711,
+    "homo": -0.8811,
+    "lumo": 0.6133,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "ClF5Na2",
+    "bandgap_eV": 1.3273,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -2.5743,
+    "mag_uB": 0.001,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -29.409576416015625,
+    "homo": -1.2752,
+    "lumo": 0.0521,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H6F2O6Pb2",
+    "bandgap_eV": 1.3032,
+    "category": "氧氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 16,
+    "energy_per_atom": -4.1304,
+    "mag_uB": -0.004,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -82.79301452636719,
+    "homo": 0.5385,
+    "lumo": 1.8417,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br5I2In",
+    "bandgap_eV": 1.1895,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -2.0822,
+    "mag_uB": -0.001,
+    "source": "results_widegap",
+    "chgnet_E": -19.93107795715332,
+    "homo": 0.076,
+    "lumo": 1.2656,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "HO2Tl",
+    "bandgap_eV": 1.0933,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -3.9035,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -20.096385955810547,
+    "homo": 3.2609,
+    "lumo": 4.3542,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "ClCs2O5S",
+    "bandgap_eV": 0.9167,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 9,
+    "energy_per_atom": -3.7105,
+    "mag_uB": 0.999,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -45.222571849823,
+    "homo": 3.3497,
+    "lumo": 4.2664,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "O2Rb4",
+    "bandgap_eV": 0.8179,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -2.6142,
+    "mag_uB": 0.002,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -20.386728286743164,
+    "homo": 3.1475,
+    "lumo": 3.9654,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Br2Ti",
+    "bandgap_eV": 0.7716,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 3,
+    "energy_per_atom": -4.4048,
+    "mag_uB": 0.0,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -15.42843246459961,
+    "homo": 4.7555,
+    "lumo": 5.5271,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "O5",
+    "bandgap_eV": 0.609,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 5,
+    "energy_per_atom": -3.2269,
+    "mag_uB": 1.999,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -23.192081451416016,
+    "homo": -2.5389,
+    "lumo": -1.9298,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "C2N2",
+    "bandgap_eV": 0.6024,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -7.5152,
+    "mag_uB": -0.001,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -34.04235076904297,
+    "homo": 1.6216,
+    "lumo": 2.2241,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "FGaO3V",
+    "bandgap_eV": 0.4036,
+    "category": "氧氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -5.8827,
+    "mag_uB": 1.0,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -43.8934850692749,
+    "homo": 5.3279,
+    "lumo": 5.7314,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "AlF6Mn",
+    "bandgap_eV": 0.3959,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -5.0941,
+    "mag_uB": 3.999,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -50.555076599121094,
+    "homo": 1.478,
+    "lumo": 1.8739,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H3FeMoO6",
+    "bandgap_eV": 0.3631,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 11,
+    "energy_per_atom": -5.9041,
+    "mag_uB": 4.982,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -76.16994047164917,
+    "homo": 1.0925,
+    "lumo": 1.4555,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F4LiMn",
+    "bandgap_eV": 0.3582,
+    "category": "氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -4.9748,
+    "mag_uB": 3.999,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -36.16903781890869,
+    "homo": 1.8316,
+    "lumo": 2.1898,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Cl6CuIRb2",
+    "bandgap_eV": 0.2989,
+    "category": "非氟",
+    "near_metal": false,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -2.7365,
+    "mag_uB": 0.0,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -32.567524909973145,
+    "homo": 1.5064,
+    "lumo": 1.8053,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H6FN2",
+    "bandgap_eV": 0.1914,
+    "category": "氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 9,
+    "energy_per_atom": -4.1486,
+    "mag_uB": 0.999,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -44.27942132949829,
+    "homo": -2.9251,
+    "lumo": -2.7337,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CdCrF4",
+    "bandgap_eV": 0.1723,
+    "category": "氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -4.3514,
+    "mag_uB": 4.001,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -34.25375461578369,
+    "homo": 4.1429,
+    "lumo": 4.3152,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CIO5Zn",
+    "bandgap_eV": 0.1653,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -4.383,
+    "mag_uB": 0.957,
+    "source": "results_widegap",
+    "chgnet_E": -47.131412506103516,
+    "homo": 2.8155,
+    "lumo": 2.9808,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Al3O5",
+    "bandgap_eV": 0.1366,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -6.0008,
+    "mag_uB": 0.998,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -59.791053771972656,
+    "homo": 1.2295,
+    "lumo": 1.3661,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CaCl4Na",
+    "bandgap_eV": 0.1092,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -3.382,
+    "mag_uB": 0.948,
+    "source": "results_widegap",
+    "chgnet_E": -23.026172161102295,
+    "homo": -0.7153,
+    "lumo": -0.6061,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F3Tb",
+    "bandgap_eV": 0.0326,
+    "category": "氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -6.3184,
+    "mag_uB": 6.0,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -27.971240997314453,
+    "homo": 2.3495,
+    "lumo": 2.3822,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "LuO3Tm",
+    "bandgap_eV": 0.0268,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 5,
+    "energy_per_atom": -6.2737,
+    "mag_uB": 2.001,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -43.96226406097412,
+    "homo": 8.4787,
+    "lumo": 8.5055,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "O4SiV",
+    "bandgap_eV": 0.0133,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -6.9514,
+    "mag_uB": 1.0,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -50.870195388793945,
+    "homo": 1.5261,
+    "lumo": 1.5394,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "FO3Tm2",
+    "bandgap_eV": 0.0105,
+    "category": "氧氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 6,
+    "energy_per_atom": -5.1819,
+    "mag_uB": 4.992,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -48.2354850769043,
+    "homo": 6.6587,
+    "lumo": 6.6692,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "DyKO2",
+    "bandgap_eV": 0.0011,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -5.9269,
+    "mag_uB": 5.0,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -27.976057052612305,
+    "homo": 7.3786,
+    "lumo": 7.3797,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Dy2O6P",
+    "bandgap_eV": -0.0025,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 9,
+    "energy_per_atom": -6.7401,
+    "mag_uB": 10.999,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -74.2412281036377,
+    "homo": 5.7604,
+    "lumo": 5.7579,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "As2Ho2O8",
+    "bandgap_eV": -0.0064,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 12,
+    "energy_per_atom": -5.788,
+    "mag_uB": 8.0,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -92.17704391479492,
+    "homo": 7.1835,
+    "lumo": 7.1772,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "H3O3PrZn",
+    "bandgap_eV": -0.0074,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 8,
+    "energy_per_atom": -4.736,
+    "mag_uB": 2.001,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -44.974124908447266,
+    "homo": 6.0404,
+    "lumo": 6.033,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F6NaRb2Sm",
+    "bandgap_eV": -0.0135,
+    "category": "氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 10,
+    "energy_per_atom": -4.6429,
+    "mag_uB": 4.998,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -54.91175651550293,
+    "homo": 2.2371,
+    "lumo": 2.2235,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "KO2Pr",
+    "bandgap_eV": -0.0137,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -5.821,
+    "mag_uB": 2.0,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -27.304580688476562,
+    "homo": 7.9274,
+    "lumo": 7.9138,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Li2O2PrS2Tb",
+    "bandgap_eV": -0.0139,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 8,
+    "energy_per_atom": -6.2336,
+    "mag_uB": 7.921,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -52.90150451660156,
+    "homo": 7.6473,
+    "lumo": 7.6334,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Li2O9P3",
+    "bandgap_eV": -0.0193,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 14,
+    "energy_per_atom": -5.4921,
+    "mag_uB": 0.994,
+    "source": "extended_pool/bg_45",
+    "chgnet_E": -99.14074039459229,
+    "homo": 0.8268,
+    "lumo": 0.8075,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "KO2Tb",
+    "bandgap_eV": -0.0201,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -6.4777,
+    "mag_uB": 6.0,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -27.893863677978516,
+    "homo": 7.933,
+    "lumo": 7.9129,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "MoSi2TiV2",
+    "bandgap_eV": -0.0213,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -8.1482,
+    "mag_uB": 0.0,
+    "source": "results",
+    "chgnet_E": -50.96597671508789,
+    "homo": 10.5573,
+    "lumo": 10.536,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "ErKS2",
+    "bandgap_eV": -0.0254,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -4.6347,
+    "mag_uB": 3.0,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -22.39190101623535,
+    "homo": 4.4491,
+    "lumo": 4.4237,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "DyN2Y",
+    "bandgap_eV": -0.0275,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -7.4195,
+    "mag_uB": 5.0,
+    "source": "results_bulk_150",
+    "chgnet_E": -35.083961486816406,
+    "homo": 9.8426,
+    "lumo": 9.8151,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "IO2Pr",
+    "bandgap_eV": -0.0296,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -5.3082,
+    "mag_uB": 2.0,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -25.42204475402832,
+    "homo": 8.3061,
+    "lumo": 8.2766,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "O3STm2",
+    "bandgap_eV": -0.0433,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 6,
+    "energy_per_atom": -4.8155,
+    "mag_uB": 5.956,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -44.94265937805176,
+    "homo": 6.9651,
+    "lumo": 6.9218,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "InNa2O4V",
+    "bandgap_eV": -0.049,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -5.1876,
+    "mag_uB": 1.999,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -51.297611236572266,
+    "homo": 6.1305,
+    "lumo": 6.0815,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "O9P2Ti",
+    "bandgap_eV": -0.0505,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -5.6288,
+    "mag_uB": 1.921,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -88.98809623718262,
+    "homo": 0.861,
+    "lumo": 0.8105,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "NaO6Sr2W",
+    "bandgap_eV": -0.1284,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -5.9891,
+    "mag_uB": 0.984,
+    "source": "results",
+    "chgnet_E": -73.37892055511475,
+    "homo": 3.8738,
+    "lumo": 3.7454,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CuO2Tm",
+    "bandgap_eV": -0.1386,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -5.0104,
+    "mag_uB": 1.999,
+    "source": "results_widegap",
+    "chgnet_E": -29.455766677856445,
+    "homo": 5.8897,
+    "lumo": 5.7511,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Cd2O7Si2",
+    "bandgap_eV": -0.1688,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 11,
+    "energy_per_atom": -4.959,
+    "mag_uB": 1.972,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -71.2919487953186,
+    "homo": 2.5556,
+    "lumo": 2.3868,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Na2O4ScTi",
+    "bandgap_eV": -0.2008,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -6.0441,
+    "mag_uB": 1.001,
+    "source": "results_widegap",
+    "chgnet_E": -60.40101623535156,
+    "homo": 7.2485,
+    "lumo": 7.0478,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CsNaO7Ta2",
+    "bandgap_eV": -0.2428,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 11,
+    "energy_per_atom": -6.3315,
+    "mag_uB": 1.967,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -89.88733100891113,
+    "homo": 3.0807,
+    "lumo": 2.8378,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "F6Ge2O2",
+    "bandgap_eV": -0.2869,
+    "category": "氧氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -3.6283,
+    "mag_uB": 1.999,
+    "source": "pool_bandgap_40",
+    "chgnet_E": -51.07840538024902,
+    "homo": -0.566,
+    "lumo": -0.8529,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "C2Li6N4",
+    "bandgap_eV": -0.3888,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -4.9335,
+    "mag_uB": 1.455,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -70.9892635345459,
+    "homo": 5.7133,
+    "lumo": 5.3245,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "MgMn4O5",
+    "bandgap_eV": -0.396,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 10,
+    "energy_per_atom": -7.1404,
+    "mag_uB": 19.393,
+    "source": "results_bulk_150",
+    "chgnet_E": -84.18277740478516,
+    "homo": 7.9366,
+    "lumo": 7.5406,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "FLi3O3V",
+    "bandgap_eV": -0.4356,
+    "category": "氧氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -5.487,
+    "mag_uB": 1.001,
+    "source": "extended_pool/bg_25",
+    "chgnet_E": -52.276824951171875,
+    "homo": 5.6264,
+    "lumo": 5.1909,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Ga2Ru2Y4",
+    "bandgap_eV": -0.4547,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 8,
+    "energy_per_atom": -5.8968,
+    "mag_uB": 0.006,
+    "source": "results",
+    "chgnet_E": -54.806453704833984,
+    "homo": 8.0237,
+    "lumo": 7.569,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Al2Br3S",
+    "bandgap_eV": -0.5408,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -3.3615,
+    "mag_uB": 0.6,
+    "source": "results_widegap",
+    "chgnet_E": -24.796056747436523,
+    "homo": 4.2796,
+    "lumo": 3.7387,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CMn2Sc2Si2",
+    "bandgap_eV": -0.6632,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 7,
+    "energy_per_atom": -7.5714,
+    "mag_uB": 1.881,
+    "source": "results_bulk_150",
+    "chgnet_E": -55.48160362243652,
+    "homo": 8.8283,
+    "lumo": 8.1651,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Bi2BrO3",
+    "bandgap_eV": -0.6825,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -4.3803,
+    "mag_uB": -0.002,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -32.50224781036377,
+    "homo": 3.8247,
+    "lumo": 3.1422,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Ba2I2",
+    "bandgap_eV": -0.7015,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -2.9208,
+    "mag_uB": -0.002,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -13.223343849182129,
+    "homo": 6.3766,
+    "lumo": 5.6751,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "As3O6SiZn",
+    "bandgap_eV": -0.7196,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 11,
+    "energy_per_atom": -4.9476,
+    "mag_uB": 0.009,
+    "source": "pool_bandgap_25",
+    "chgnet_E": -69.74323797225952,
+    "homo": 3.91,
+    "lumo": 3.1904,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "NbO4Ta",
+    "bandgap_eV": -0.8028,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -8.1079,
+    "mag_uB": 0.33,
+    "source": "results_widegap",
+    "chgnet_E": -59.622488021850586,
+    "homo": 8.6498,
+    "lumo": 7.847,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CLa2NO",
+    "bandgap_eV": -1.0822,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 5,
+    "energy_per_atom": -6.8146,
+    "mag_uB": -0.0,
+    "source": "extended_pool/bg_30",
+    "chgnet_E": -39.12893056869507,
+    "homo": 9.9684,
+    "lumo": 8.8862,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Al4BN2O2Si3",
+    "bandgap_eV": -1.0998,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 12,
+    "energy_per_atom": -5.5818,
+    "mag_uB": 0.008,
+    "source": "extended_pool/bg_40",
+    "chgnet_E": -76.96463012695312,
+    "homo": 8.2968,
+    "lumo": 7.197,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "AlPd5Sn",
+    "bandgap_eV": -1.2745,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 7,
+    "energy_per_atom": -4.3808,
+    "mag_uB": -0.007,
+    "source": "results_bulk_150",
+    "chgnet_E": -37.55651044845581,
+    "homo": 8.9941,
+    "lumo": 7.7196,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "ClK4O",
+    "bandgap_eV": -1.4032,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -2.7904,
+    "mag_uB": -0.0,
+    "source": "pool_bandgap_35",
+    "chgnet_E": -19.442041397094727,
+    "homo": 2.6274,
+    "lumo": 1.2242,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "CuIrScTi",
+    "bandgap_eV": -1.4634,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -6.6075,
+    "mag_uB": 0.004,
+    "source": "results_bulk_150",
+    "chgnet_E": -29.525672912597656,
+    "homo": 9.6629,
+    "lumo": 8.1995,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Pt3Tb",
+    "bandgap_eV": -1.5216,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": true,
+    "n_atoms": 4,
+    "energy_per_atom": -7.5945,
+    "mag_uB": 6.304,
+    "source": "results_bulk_150",
+    "chgnet_E": -26.684307098388672,
+    "homo": 12.8925,
+    "lumo": 11.3709,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "GeLiMnRh",
+    "bandgap_eV": -1.9136,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 4,
+    "energy_per_atom": -6.1961,
+    "mag_uB": 3.123,
+    "source": "results",
+    "chgnet_E": -24.193023681640625,
+    "homo": 9.7548,
+    "lumo": 7.8412,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "B4O6Rb",
+    "bandgap_eV": -2.1384,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 11,
+    "energy_per_atom": -6.3956,
+    "mag_uB": 0.328,
+    "source": "extended_pool/bg_35",
+    "chgnet_E": -86.70130205154419,
+    "homo": 5.9562,
+    "lumo": 3.8179,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "formula": "Cu4Fe2",
+    "bandgap_eV": -4.2315,
+    "category": "非氟",
+    "near_metal": true,
+    "has_f": false,
+    "n_atoms": 6,
+    "energy_per_atom": -5.2333,
+    "mag_uB": 5.088,
+    "source": "results_bulk_150",
+    "chgnet_E": -32.53940677642822,
+    "homo": 11.747,
+    "lumo": 7.5155,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  }
+]

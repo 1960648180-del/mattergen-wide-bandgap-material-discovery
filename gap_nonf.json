@@ -1,0 +1,130 @@
+[
+  {
+    "cif": "chgnet_relaxed_nonf_BeO2Zn.cif",
+    "formula": "BeO2Zn",
+    "n_atoms": 4,
+    "total_energy": -19.2051,
+    "energy_per_atom": -4.8013,
+    "homo": 4.3374,
+    "lumo": 7.4458,
+    "pbe_bandgap": 3.1083,
+    "mag_moment_uB": -0.0,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_nonf_Cl2CsK.cif",
+    "formula": "Cl2CsK",
+    "n_atoms": 4,
+    "total_energy": -13.4073,
+    "energy_per_atom": -3.3518,
+    "homo": 0.1324,
+    "lumo": 5.3617,
+    "pbe_bandgap": 5.2294,
+    "mag_moment_uB": -0.001,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_nonf_CaO3Zr.cif",
+    "formula": "CaO3Zr",
+    "n_atoms": 5,
+    "total_energy": -35.4599,
+    "energy_per_atom": -7.092,
+    "homo": 4.546,
+    "lumo": 8.543,
+    "pbe_bandgap": 3.997,
+    "mag_moment_uB": -0.001,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_nonf_O2Rb4.cif",
+    "formula": "O2Rb4",
+    "n_atoms": 6,
+    "total_energy": -15.6851,
+    "energy_per_atom": -2.6142,
+    "homo": 3.1475,
+    "lumo": 3.9653,
+    "pbe_bandgap": 0.8177,
+    "mag_moment_uB": 0.002,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_nonf_Al3O5.cif",
+    "formula": "Al3O5",
+    "n_atoms": 8,
+    "total_energy": -48.0065,
+    "energy_per_atom": -6.0008,
+    "homo": 1.2295,
+    "lumo": 1.3661,
+    "pbe_bandgap": 0.1366,
+    "mag_moment_uB": 0.998,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_nonf_Br2Cs2.cif",
+    "formula": "Br2Cs2",
+    "n_atoms": 4,
+    "total_energy": -11.9713,
+    "energy_per_atom": -2.9928,
+    "homo": 0.8861,
+    "lumo": 5.497,
+    "pbe_bandgap": 4.6109,
+    "mag_moment_uB": -0.001,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_nonf_CaClKO.cif",
+    "formula": "CaClKO",
+    "n_atoms": 4,
+    "total_energy": -17.2458,
+    "energy_per_atom": -4.3115,
+    "homo": 2.7764,
+    "lumo": 7.0362,
+    "pbe_bandgap": 4.2597,
+    "mag_moment_uB": 0.0,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "chgnet_relaxed_nonf_H2Cs2S2.cif",
+    "formula": "H2Cs2S2",
+    "n_atoms": 6,
+    "total_energy": -21.3014,
+    "energy_per_atom": -3.5502,
+    "homo": 1.5727,
+    "lumo": 5.2357,
+    "pbe_bandgap": 3.6631,
+    "mag_moment_uB": 0.0,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "cif": "f3la_posrelaxed.cif",
+    "formula": "F3La",
+    "n_atoms": 4,
+    "total_energy": -23.2222,
+    "energy_per_atom": -5.8056,
+    "homo": 0.8519,
+    "lumo": 7.5343,
+    "pbe_bandgap": 6.6824,
+    "mag_moment_uB": 0.0,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  },
+  {
+    "cif": "baf6si_posrelaxed.cif",
+    "formula": "BaF6Si",
+    "n_atoms": 8,
+    "total_energy": -39.1773,
+    "energy_per_atom": -4.8972,
+    "homo": 1.4701,
+    "lumo": 9.3378,
+    "pbe_bandgap": 7.8676,
+    "mag_moment_uB": -0.0,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  }
+]

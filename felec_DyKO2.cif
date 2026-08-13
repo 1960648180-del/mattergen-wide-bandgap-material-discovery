@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       DyOKO
+_chemical_formula_sum              "Dy1 O2 K1"
+_cell_length_a       3.483893602036311
+_cell_length_b       3.483733894308198
+_cell_length_c       6.5737457275390625
+_cell_angle_alpha    74.6615340047446
+_cell_angle_beta     74.65253893617424
+_cell_angle_gamma    59.994523237007435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.6323247557090638  0.37872347173063603  0.47552868784215474  1.0000
+  O   O1        1.0  0.9032211913363903  0.6499593845510677  0.6599602693812963  1.0000
+  K   K1        1.0  0.13219934732531666  0.8783808334943758  0.9755473731145067  1.0000
+  O   O2        1.0  0.36068868483780536  0.10704092836674887  0.28949347081985205  1.0000

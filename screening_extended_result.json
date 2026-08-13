@@ -1,0 +1,1836 @@
+{
+  "total": 100,
+  "success": 100,
+  "results": [
+    {
+      "batch": "bg_25",
+      "index": 0,
+      "formula": "F3La",
+      "n_atoms": 4,
+      "total_energy": -28.498493194580078,
+      "energy_per_atom": -7.1246232986450195,
+      "formation_energy": -4.383407890796661,
+      "elements": {
+        "F": 3,
+        "La": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 1,
+      "formula": "Hg2O8S2",
+      "n_atoms": 12,
+      "total_energy": -66.15535926818848,
+      "energy_per_atom": -5.512946605682373,
+      "formation_energy": -1.7745450288057327,
+      "elements": {
+        "S": 2,
+        "Hg": 2,
+        "O": 8
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 2,
+      "formula": "O4SiV",
+      "n_atoms": 6,
+      "total_energy": -50.870195388793945,
+      "energy_per_atom": -8.478365898132324,
+      "formation_energy": -2.867487668991089,
+      "elements": {
+        "O": 4,
+        "Si": 1,
+        "V": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 3,
+      "formula": "Ba2O6SrW",
+      "n_atoms": 10,
+      "total_energy": -77.66669750213623,
+      "energy_per_atom": -7.766669750213623,
+      "formation_energy": -3.0562383413314818,
+      "elements": {
+        "Sr": 1,
+        "Ba": 2,
+        "O": 6,
+        "W": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 4,
+      "formula": "Br2CaHg",
+      "n_atoms": 4,
+      "total_energy": -12.481395721435547,
+      "energy_per_atom": -3.1203489303588867,
+      "formation_energy": -1.788724236190319,
+      "elements": {
+        "Ca": 1,
+        "Br": 2,
+        "Hg": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 5,
+      "formula": "FLi3O3V",
+      "n_atoms": 8,
+      "total_energy": -52.276824951171875,
+      "energy_per_atom": -6.534603118896484,
+      "formation_energy": -2.635653629899025,
+      "elements": {
+        "Li": 3,
+        "V": 1,
+        "O": 3,
+        "F": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 6,
+      "formula": "Br6Cs2Hf",
+      "n_atoms": 9,
+      "total_energy": -39.80614900588989,
+      "energy_per_atom": -4.422905445098877,
+      "formation_energy": -2.1068367693159313,
+      "elements": {
+        "Cs": 2,
+        "Hf": 1,
+        "Br": 6
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 7,
+      "formula": "O5",
+      "n_atoms": 5,
+      "total_energy": -23.192083835601807,
+      "energy_per_atom": -4.638416767120361,
+      "formation_energy": 0.18020105361938477,
+      "elements": {
+        "O": 5
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 8,
+      "formula": "I6Zr2",
+      "n_atoms": 8,
+      "total_energy": -36.11890411376953,
+      "energy_per_atom": -4.514863014221191,
+      "formation_energy": -1.2362176477909088,
+      "elements": {
+        "I": 6,
+        "Zr": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 9,
+      "formula": "Cl3LiPb",
+      "n_atoms": 5,
+      "total_energy": -19.723814725875854,
+      "energy_per_atom": -3.944762945175171,
+      "formation_energy": -1.7272467851638793,
+      "elements": {
+        "Li": 1,
+        "Cl": 3,
+        "Pb": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 10,
+      "formula": "H3O3PrZn",
+      "n_atoms": 8,
+      "total_energy": -44.97412109375,
+      "energy_per_atom": -5.62176513671875,
+      "formation_energy": -1.8133397996425629,
+      "elements": {
+        "O": 3,
+        "Zn": 1,
+        "H": 3,
+        "Pr": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 11,
+      "formula": "ClCs2O5S",
+      "n_atoms": 9,
+      "total_energy": -45.222567558288574,
+      "energy_per_atom": -5.0247297286987305,
+      "formation_energy": -1.6342411306169298,
+      "elements": {
+        "Cs": 2,
+        "O": 5,
+        "Cl": 1,
+        "S": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 12,
+      "formula": "Br4GeMg",
+      "n_atoms": 6,
+      "total_energy": -21.023606300354004,
+      "energy_per_atom": -3.503934383392334,
+      "formation_energy": -1.4690340161323547,
+      "elements": {
+        "Mg": 1,
+        "Ge": 1,
+        "Br": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 13,
+      "formula": "H4Li2O2",
+      "n_atoms": 8,
+      "total_energy": -37.29050827026367,
+      "energy_per_atom": -4.661313533782959,
+      "formation_energy": -1.3201684057712555,
+      "elements": {
+        "Li": 2,
+        "H": 4,
+        "O": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 14,
+      "formula": "LiO11Re3",
+      "n_atoms": 15,
+      "total_energy": -125.56351661682129,
+      "energy_per_atom": -8.370901107788086,
+      "formation_energy": -2.220627474784851,
+      "elements": {
+        "Re": 3,
+        "O": 11,
+        "Li": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 15,
+      "formula": "Li8S3Se",
+      "n_atoms": 12,
+      "total_energy": -48.433427810668945,
+      "energy_per_atom": -4.036118984222412,
+      "formation_energy": -1.8004191120465596,
+      "elements": {
+        "Li": 8,
+        "S": 3,
+        "Se": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 16,
+      "formula": "O4S3Sm2Zr2",
+      "n_atoms": 11,
+      "total_energy": -92.06902313232422,
+      "energy_per_atom": -8.369911193847656,
+      "formation_energy": -3.4333962960676714,
+      "elements": {
+        "S": 3,
+        "O": 4,
+        "Sm": 2,
+        "Zr": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 17,
+      "formula": "H3FeMoO6",
+      "n_atoms": 11,
+      "total_energy": -76.16806268692017,
+      "energy_per_atom": -6.9243693351745605,
+      "formation_energy": -1.6547553539276123,
+      "elements": {
+        "H": 3,
+        "Mo": 1,
+        "O": 6,
+        "Fe": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 18,
+      "formula": "FLaNa2O2",
+      "n_atoms": 6,
+      "total_energy": -36.71939277648926,
+      "energy_per_atom": -6.119898796081543,
+      "formation_energy": -2.931036909421285,
+      "elements": {
+        "O": 2,
+        "Na": 2,
+        "La": 1,
+        "F": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_25",
+      "index": 19,
+      "formula": "O14S4Sb2",
+      "n_atoms": 20,
+      "total_energy": -128.46813201904297,
+      "energy_per_atom": -6.423406600952148,
+      "formation_energy": -2.087743639945984,
+      "elements": {
+        "Sb": 2,
+        "O": 14,
+        "S": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 0,
+      "formula": "Br3CdLiRb2",
+      "n_atoms": 7,
+      "total_energy": -20.534610509872437,
+      "energy_per_atom": -2.933515787124634,
+      "formation_energy": -1.6055859582764762,
+      "elements": {
+        "Rb": 2,
+        "Li": 1,
+        "Br": 3,
+        "Cd": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 1,
+      "formula": "Cr2FLi2O9P2",
+      "n_atoms": 16,
+      "total_energy": -121.74775695800781,
+      "energy_per_atom": -7.609234809875488,
+      "formation_energy": -2.7802746891975403,
+      "elements": {
+        "Li": 2,
+        "Cr": 2,
+        "O": 9,
+        "P": 2,
+        "F": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 2,
+      "formula": "Cs8Li4O6",
+      "n_atoms": 18,
+      "total_energy": -69.04864311218262,
+      "energy_per_atom": -3.83603572845459,
+      "formation_energy": -1.4357149600982666,
+      "elements": {
+        "Cs": 8,
+        "Li": 4,
+        "O": 6
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 3,
+      "formula": "F3MgTl",
+      "n_atoms": 5,
+      "total_energy": -24.90408420562744,
+      "energy_per_atom": -4.980816841125488,
+      "formation_energy": -2.9781777620315553,
+      "elements": {
+        "Tl": 1,
+        "Mg": 1,
+        "F": 3
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 4,
+      "formula": "C2N2",
+      "n_atoms": 4,
+      "total_energy": -34.04234313964844,
+      "energy_per_atom": -8.51058578491211,
+      "formation_energy": 0.18906402587890625,
+      "elements": {
+        "C": 2,
+        "N": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 5,
+      "formula": "CuKO4SmZn",
+      "n_atoms": 8,
+      "total_energy": -48.028785705566406,
+      "energy_per_atom": -6.003598213195801,
+      "formation_energy": -2.204228311777115,
+      "elements": {
+        "O": 4,
+        "Zn": 1,
+        "Sm": 1,
+        "Cu": 1,
+        "K": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 6,
+      "formula": "KO2Pr",
+      "n_atoms": 4,
+      "total_energy": -27.304580688476562,
+      "energy_per_atom": -6.826145172119141,
+      "formation_energy": -2.958243191242218,
+      "elements": {
+        "Pr": 1,
+        "K": 1,
+        "O": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 7,
+      "formula": "Cs4Li4O4",
+      "n_atoms": 12,
+      "total_energy": -49.39094924926758,
+      "energy_per_atom": -4.115912437438965,
+      "formation_energy": -1.6010640859603882,
+      "elements": {
+        "Cs": 4,
+        "Li": 4,
+        "O": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 8,
+      "formula": "InNa2O4V",
+      "n_atoms": 8,
+      "total_energy": -51.297607421875,
+      "energy_per_atom": -6.412200927734375,
+      "formation_energy": -2.208369255065918,
+      "elements": {
+        "Na": 2,
+        "In": 1,
+        "O": 4,
+        "V": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 9,
+      "formula": "BeO2Zn",
+      "n_atoms": 4,
+      "total_energy": -24.070953369140625,
+      "energy_per_atom": -6.017738342285156,
+      "formation_energy": -2.360450267791748,
+      "elements": {
+        "Zn": 1,
+        "Be": 1,
+        "O": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 10,
+      "formula": "Cl2CsK",
+      "n_atoms": 4,
+      "total_energy": -14.634334564208984,
+      "energy_per_atom": -3.658583641052246,
+      "formation_energy": -2.2507510781288147,
+      "elements": {
+        "Cs": 1,
+        "Cl": 2,
+        "K": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 11,
+      "formula": "Cl6CuIRb2",
+      "n_atoms": 10,
+      "total_energy": -32.56753206253052,
+      "energy_per_atom": -3.2567532062530518,
+      "formation_energy": -1.3983499884605408,
+      "elements": {
+        "Rb": 2,
+        "Cu": 1,
+        "Cl": 6,
+        "I": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 12,
+      "formula": "Gd2HgNaO10Se2",
+      "n_atoms": 16,
+      "total_energy": -119.35257720947266,
+      "energy_per_atom": -7.459536075592041,
+      "formation_energy": -2.1979728918522596,
+      "elements": {
+        "Gd": 2,
+        "Na": 1,
+        "Se": 2,
+        "O": 10,
+        "Hg": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 13,
+      "formula": "F9Hf3O3Y",
+      "n_atoms": 16,
+      "total_energy": -134.0009765625,
+      "energy_per_atom": -8.37506103515625,
+      "formation_energy": -4.071837589144707,
+      "elements": {
+        "O": 3,
+        "Hf": 3,
+        "F": 9,
+        "Y": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 14,
+      "formula": "CLa2NO",
+      "n_atoms": 5,
+      "total_energy": -39.12893533706665,
+      "energy_per_atom": -7.82578706741333,
+      "formation_energy": -1.4243258476257323,
+      "elements": {
+        "C": 1,
+        "N": 1,
+        "O": 1,
+        "La": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 15,
+      "formula": "C2Li6N4",
+      "n_atoms": 12,
+      "total_energy": -70.9892692565918,
+      "energy_per_atom": -5.915772438049316,
+      "formation_energy": -0.6875343918800354,
+      "elements": {
+        "Li": 6,
+        "C": 2,
+        "N": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 16,
+      "formula": "H6Al2",
+      "n_atoms": 8,
+      "total_energy": -28.130678176879883,
+      "energy_per_atom": -3.5163347721099854,
+      "formation_energy": -0.09989792108535767,
+      "elements": {
+        "Al": 2,
+        "H": 6
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 17,
+      "formula": "Bi2BrO3",
+      "n_atoms": 6,
+      "total_energy": -32.50181007385254,
+      "energy_per_atom": -5.41696834564209,
+      "formation_energy": -1.4767173329989116,
+      "elements": {
+        "O": 3,
+        "Bi": 2,
+        "Br": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 18,
+      "formula": "Ge2Li9O9",
+      "n_atoms": 20,
+      "total_energy": -114.12505149841309,
+      "energy_per_atom": -5.706252574920654,
+      "formation_energy": -2.2469792902469634,
+      "elements": {
+        "Li": 9,
+        "O": 9,
+        "Ge": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 19,
+      "formula": "F6FeSc",
+      "n_atoms": 8,
+      "total_energy": -53.84934616088867,
+      "energy_per_atom": -6.731168270111084,
+      "formation_energy": -3.3847450613975525,
+      "elements": {
+        "F": 6,
+        "Sc": 1,
+        "Fe": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 0,
+      "formula": "H6F2O6Pb2",
+      "n_atoms": 16,
+      "total_energy": -82.79303741455078,
+      "energy_per_atom": -5.174564838409424,
+      "formation_energy": -1.406490683555603,
+      "elements": {
+        "Pb": 2,
+        "F": 2,
+        "O": 6,
+        "H": 6
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 1,
+      "formula": "B4O6Rb",
+      "n_atoms": 11,
+      "total_energy": -86.70130205154419,
+      "energy_per_atom": -7.881936550140381,
+      "formation_energy": -3.2747381166978315,
+      "elements": {
+        "Rb": 1,
+        "O": 6,
+        "B": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 2,
+      "formula": "H5B2Na3O2",
+      "n_atoms": 12,
+      "total_energy": -57.03357124328613,
+      "energy_per_atom": -4.752797603607178,
+      "formation_energy": -1.3704585433006287,
+      "elements": {
+        "B": 2,
+        "Na": 3,
+        "O": 2,
+        "H": 5
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 3,
+      "formula": "F6Li5Na",
+      "n_atoms": 12,
+      "total_energy": -59.28335952758789,
+      "energy_per_atom": -4.940279960632324,
+      "formation_energy": -3.0385341743628183,
+      "elements": {
+        "Li": 5,
+        "Na": 1,
+        "F": 6
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 4,
+      "formula": "C3Cs2O12PSi2",
+      "n_atoms": 20,
+      "total_energy": -148.82770538330078,
+      "energy_per_atom": -7.441385269165039,
+      "formation_energy": -2.34864227771759,
+      "elements": {
+        "Cs": 2,
+        "Si": 2,
+        "P": 1,
+        "C": 3,
+        "O": 12
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 5,
+      "formula": "HO2Tl",
+      "n_atoms": 4,
+      "total_energy": -20.096384048461914,
+      "energy_per_atom": -5.0240960121154785,
+      "formation_energy": -1.1945056319236755,
+      "elements": {
+        "Tl": 1,
+        "O": 2,
+        "H": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 6,
+      "formula": "B2O4Rb2",
+      "n_atoms": 8,
+      "total_energy": -55.39634704589844,
+      "energy_per_atom": -6.924543380737305,
+      "formation_energy": -2.9789876341819763,
+      "elements": {
+        "Rb": 2,
+        "B": 2,
+        "O": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 7,
+      "formula": "Li2O2PrS2Tb",
+      "n_atoms": 8,
+      "total_energy": -52.9015007019043,
+      "energy_per_atom": -6.612687587738037,
+      "formation_energy": -3.0509521067142487,
+      "elements": {
+        "Li": 2,
+        "Pr": 1,
+        "Tb": 1,
+        "S": 2,
+        "O": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 8,
+      "formula": "Br6Cs3Sc",
+      "n_atoms": 10,
+      "total_energy": -39.94645118713379,
+      "energy_per_atom": -3.994645118713379,
+      "formation_energy": -2.1893181562423707,
+      "elements": {
+        "Cs": 3,
+        "Sc": 1,
+        "Br": 6
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 9,
+      "formula": "As2Ho2O8",
+      "n_atoms": 12,
+      "total_energy": -92.17706680297852,
+      "energy_per_atom": -7.681422233581543,
+      "formation_energy": -3.0151044527689614,
+      "elements": {
+        "Ho": 2,
+        "As": 2,
+        "O": 8
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 10,
+      "formula": "Cl4MgNa2",
+      "n_atoms": 7,
+      "total_energy": -26.535914421081543,
+      "energy_per_atom": -3.7908449172973633,
+      "formation_energy": -2.138367772102356,
+      "elements": {
+        "Na": 2,
+        "Cl": 4,
+        "Mg": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 11,
+      "formula": "BaCsKO7P2",
+      "n_atoms": 12,
+      "total_energy": -82.55170440673828,
+      "energy_per_atom": -6.879308700561523,
+      "formation_energy": -2.9975526134173074,
+      "elements": {
+        "P": 2,
+        "O": 7,
+        "Ba": 1,
+        "K": 1,
+        "Cs": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 12,
+      "formula": "F6Fe2Li2",
+      "n_atoms": 10,
+      "total_energy": -59.85367774963379,
+      "energy_per_atom": -5.985367774963379,
+      "formation_energy": -2.724380373954773,
+      "elements": {
+        "Li": 2,
+        "Fe": 2,
+        "F": 6
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 13,
+      "formula": "F6KLi2Sc",
+      "n_atoms": 10,
+      "total_energy": -57.6123571395874,
+      "energy_per_atom": -5.76123571395874,
+      "formation_energy": -3.435387372970581,
+      "elements": {
+        "F": 6,
+        "Sc": 1,
+        "Li": 2,
+        "K": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 14,
+      "formula": "I6MnRb2",
+      "n_atoms": 9,
+      "total_energy": -30.128196001052856,
+      "energy_per_atom": -3.3475773334503174,
+      "formation_energy": -1.1059349907769098,
+      "elements": {
+        "Rb": 2,
+        "I": 6,
+        "Mn": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 15,
+      "formula": "O2Rb4",
+      "n_atoms": 6,
+      "total_energy": -20.386725425720215,
+      "energy_per_atom": -3.397787570953369,
+      "formation_energy": -1.166587511698405,
+      "elements": {
+        "Rb": 4,
+        "O": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 16,
+      "formula": "H10K2N4",
+      "n_atoms": 16,
+      "total_energy": -76.51484680175781,
+      "energy_per_atom": -4.782177925109863,
+      "formation_energy": -0.4789094924926758,
+      "elements": {
+        "K": 2,
+        "H": 10,
+        "N": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 17,
+      "formula": "CaO3Zr",
+      "n_atoms": 5,
+      "total_energy": -43.0292272567749,
+      "energy_per_atom": -8.60584545135498,
+      "formation_energy": -3.618883800506592,
+      "elements": {
+        "Zr": 1,
+        "Ca": 1,
+        "O": 3
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 18,
+      "formula": "AlCl6Cs2Na",
+      "n_atoms": 10,
+      "total_energy": -39.63663578033447,
+      "energy_per_atom": -3.9636635780334473,
+      "formation_energy": -2.1897561073303224,
+      "elements": {
+        "Na": 1,
+        "Cl": 6,
+        "Cs": 2,
+        "Al": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 19,
+      "formula": "F12Ti2V2",
+      "n_atoms": 16,
+      "total_energy": -112.67654418945312,
+      "energy_per_atom": -7.04228401184082,
+      "formation_energy": -3.412895143032074,
+      "elements": {
+        "Ti": 2,
+        "V": 2,
+        "F": 12
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 0,
+      "formula": "F12K6Y2",
+      "n_atoms": 20,
+      "total_energy": -113.68343353271484,
+      "energy_per_atom": -5.684171676635742,
+      "formation_energy": -3.4996270895004273,
+      "elements": {
+        "K": 6,
+        "Y": 2,
+        "F": 12
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 1,
+      "formula": "Al4BN2O2Si3",
+      "n_atoms": 12,
+      "total_energy": -76.96417236328125,
+      "energy_per_atom": -6.4136810302734375,
+      "formation_energy": -1.2376329898834229,
+      "elements": {
+        "Al": 4,
+        "Si": 3,
+        "B": 1,
+        "N": 2,
+        "O": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 2,
+      "formula": "ClEr2O4Pr",
+      "n_atoms": 8,
+      "total_energy": -64.92076110839844,
+      "energy_per_atom": -8.115095138549805,
+      "formation_energy": -3.74469593167305,
+      "elements": {
+        "Pr": 1,
+        "Er": 2,
+        "O": 4,
+        "Cl": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 3,
+      "formula": "H6FN2",
+      "n_atoms": 9,
+      "total_energy": -44.27942132949829,
+      "energy_per_atom": -4.919935703277588,
+      "formation_energy": -0.6203251679738363,
+      "elements": {
+        "H": 6,
+        "N": 2,
+        "F": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 4,
+      "formula": "H4Na2",
+      "n_atoms": 6,
+      "total_energy": -16.719536304473877,
+      "energy_per_atom": -2.7865893840789795,
+      "formation_energy": -0.13440569241841635,
+      "elements": {
+        "Na": 2,
+        "H": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 5,
+      "formula": "H3O4Sb",
+      "n_atoms": 8,
+      "total_energy": -45.97407150268555,
+      "energy_per_atom": -5.746758937835693,
+      "formation_energy": -1.6034037470817566,
+      "elements": {
+        "O": 4,
+        "Sb": 1,
+        "H": 3
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 6,
+      "formula": "Al2FLiO3",
+      "n_atoms": 7,
+      "total_energy": -48.87602519989014,
+      "energy_per_atom": -6.9822893142700195,
+      "formation_energy": -3.312832134110587,
+      "elements": {
+        "Al": 2,
+        "F": 1,
+        "Li": 1,
+        "O": 3
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 7,
+      "formula": "F10Sb2",
+      "n_atoms": 12,
+      "total_energy": -58.345184326171875,
+      "energy_per_atom": -4.862098693847656,
+      "formation_energy": -2.53078564008077,
+      "elements": {
+        "F": 10,
+        "Sb": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 8,
+      "formula": "Br2Cs2",
+      "n_atoms": 4,
+      "total_energy": -13.198446273803711,
+      "energy_per_atom": -3.2996115684509277,
+      "formation_energy": -2.10615998506546,
+      "elements": {
+        "Cs": 2,
+        "Br": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 9,
+      "formula": "DyKO2",
+      "n_atoms": 4,
+      "total_energy": -27.976055145263672,
+      "energy_per_atom": -6.994013786315918,
+      "formation_energy": -3.1666333079338074,
+      "elements": {
+        "Dy": 1,
+        "O": 2,
+        "K": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 10,
+      "formula": "Be2Br2F8K3Li2",
+      "n_atoms": 17,
+      "total_energy": -82.38469457626343,
+      "energy_per_atom": -4.846158504486084,
+      "formation_energy": -2.8613570858450497,
+      "elements": {
+        "K": 3,
+        "Li": 2,
+        "F": 8,
+        "Be": 2,
+        "Br": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 11,
+      "formula": "F6Rb3Y",
+      "n_atoms": 10,
+      "total_energy": -56.19823455810547,
+      "energy_per_atom": -5.619823455810547,
+      "formation_energy": -3.4800877809524535,
+      "elements": {
+        "F": 6,
+        "Rb": 3,
+        "Y": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 12,
+      "formula": "Ba6FO5",
+      "n_atoms": 12,
+      "total_energy": -72.61031341552734,
+      "energy_per_atom": -6.050859451293945,
+      "formation_energy": -2.9331324696540833,
+      "elements": {
+        "Ba": 6,
+        "F": 1,
+        "O": 5
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 13,
+      "formula": "Al3B4DyO12",
+      "n_atoms": 20,
+      "total_energy": -166.9001579284668,
+      "energy_per_atom": -8.34500789642334,
+      "formation_energy": -3.6334198713302612,
+      "elements": {
+        "Al": 3,
+        "B": 4,
+        "O": 12,
+        "Dy": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 14,
+      "formula": "H4BRb",
+      "n_atoms": 6,
+      "total_energy": -24.058576583862305,
+      "energy_per_atom": -4.009762763977051,
+      "formation_energy": -0.7630565563837687,
+      "elements": {
+        "Rb": 1,
+        "B": 1,
+        "H": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 15,
+      "formula": "Al3O5",
+      "n_atoms": 8,
+      "total_energy": -59.79105758666992,
+      "energy_per_atom": -7.47388219833374,
+      "formation_energy": -3.0881298184394836,
+      "elements": {
+        "Al": 3,
+        "O": 5
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 16,
+      "formula": "N2O6WZr3",
+      "n_atoms": 12,
+      "total_energy": -118.24460220336914,
+      "energy_per_atom": -9.853716850280762,
+      "formation_energy": -2.864335219065348,
+      "elements": {
+        "Zr": 3,
+        "W": 1,
+        "O": 6,
+        "N": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 17,
+      "formula": "F6Mg2Rb2",
+      "n_atoms": 10,
+      "total_energy": -51.017799377441406,
+      "energy_per_atom": -5.101779937744141,
+      "formation_energy": -3.3811053037643433,
+      "elements": {
+        "F": 6,
+        "Mg": 2,
+        "Rb": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 18,
+      "formula": "O3STm2",
+      "n_atoms": 6,
+      "total_energy": -44.94265937805176,
+      "energy_per_atom": -7.490443229675293,
+      "formation_energy": -3.113283077875773,
+      "elements": {
+        "O": 3,
+        "Tm": 2,
+        "S": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 19,
+      "formula": "AlF6Mn",
+      "n_atoms": 8,
+      "total_energy": -50.55508041381836,
+      "energy_per_atom": -6.319385051727295,
+      "formation_energy": -3.207641124725342,
+      "elements": {
+        "F": 6,
+        "Mn": 1,
+        "Al": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 0,
+      "formula": "F6NaSrTi",
+      "n_atoms": 9,
+      "total_energy": -55.45350408554077,
+      "energy_per_atom": -6.161500453948975,
+      "formation_energy": -3.615805599424574,
+      "elements": {
+        "Ti": 1,
+        "Na": 1,
+        "F": 6,
+        "Sr": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 1,
+      "formula": "F2O2",
+      "n_atoms": 4,
+      "total_energy": -15.196624755859375,
+      "energy_per_atom": -3.7991561889648438,
+      "formation_energy": -0.3781527280807495,
+      "elements": {
+        "O": 2,
+        "F": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 2,
+      "formula": "FO3Tm2",
+      "n_atoms": 6,
+      "total_energy": -48.2354850769043,
+      "energy_per_atom": -8.039247512817383,
+      "formation_energy": -3.804470181465149,
+      "elements": {
+        "Tm": 2,
+        "O": 3,
+        "F": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 3,
+      "formula": "Dy2O6P",
+      "n_atoms": 9,
+      "total_energy": -74.24123668670654,
+      "energy_per_atom": -8.24902629852295,
+      "formation_energy": -3.5157630178663464,
+      "elements": {
+        "P": 1,
+        "O": 6,
+        "Dy": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 4,
+      "formula": "F6NaRb2Sm",
+      "n_atoms": 10,
+      "total_energy": -54.91175651550293,
+      "energy_per_atom": -5.491175651550293,
+      "formation_energy": -3.491978168487549,
+      "elements": {
+        "Rb": 2,
+        "Na": 1,
+        "F": 6,
+        "Sm": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 5,
+      "formula": "ClF5Na2",
+      "n_atoms": 8,
+      "total_energy": -29.409568786621094,
+      "energy_per_atom": -3.6761960983276367,
+      "formation_energy": -1.85829097032547,
+      "elements": {
+        "Cl": 1,
+        "Na": 2,
+        "F": 5
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 6,
+      "formula": "F5NaOW",
+      "n_atoms": 8,
+      "total_energy": -51.34634017944336,
+      "energy_per_atom": -6.41829252243042,
+      "formation_energy": -2.7949019372463226,
+      "elements": {
+        "W": 1,
+        "O": 1,
+        "Na": 1,
+        "F": 5
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 7,
+      "formula": "Br6CsHo",
+      "n_atoms": 8,
+      "total_energy": -28.71214485168457,
+      "energy_per_atom": -3.5890181064605713,
+      "formation_energy": -1.7582426965236664,
+      "elements": {
+        "Cs": 1,
+        "Br": 6,
+        "Ho": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 8,
+      "formula": "H2Cl6CsSm",
+      "n_atoms": 10,
+      "total_energy": -42.22945690155029,
+      "energy_per_atom": -4.222945690155029,
+      "formation_energy": -1.8935851097106933,
+      "elements": {
+        "H": 2,
+        "Sm": 1,
+        "Cs": 1,
+        "Cl": 6
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 9,
+      "formula": "CaClKO",
+      "n_atoms": 4,
+      "total_energy": -20.210100173950195,
+      "energy_per_atom": -5.052525043487549,
+      "formation_energy": -2.6216413974761963,
+      "elements": {
+        "K": 1,
+        "Cl": 1,
+        "Ca": 1,
+        "O": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 10,
+      "formula": "LuO3Tm",
+      "n_atoms": 5,
+      "total_energy": -43.96225452423096,
+      "energy_per_atom": -8.792450904846191,
+      "formation_energy": -4.109424304962158,
+      "elements": {
+        "O": 3,
+        "Tm": 1,
+        "Lu": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 11,
+      "formula": "H2F2",
+      "n_atoms": 4,
+      "total_energy": -17.585025787353516,
+      "energy_per_atom": -4.396256446838379,
+      "formation_energy": -1.7176556587219238,
+      "elements": {
+        "H": 2,
+        "F": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 12,
+      "formula": "CsF2Na",
+      "n_atoms": 4,
+      "total_energy": -17.205707550048828,
+      "energy_per_atom": -4.301426887512207,
+      "formation_energy": -2.7556034326553345,
+      "elements": {
+        "F": 2,
+        "Cs": 1,
+        "Na": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 13,
+      "formula": "CdCrF4",
+      "n_atoms": 6,
+      "total_energy": -34.25375461578369,
+      "energy_per_atom": -5.708959102630615,
+      "formation_energy": -2.6158134241898856,
+      "elements": {
+        "Cd": 1,
+        "F": 4,
+        "Cr": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 14,
+      "formula": "Al2F12Rb6",
+      "n_atoms": 20,
+      "total_energy": -104.38857078552246,
+      "energy_per_atom": -5.219428539276123,
+      "formation_energy": -3.3577167272567747,
+      "elements": {
+        "F": 12,
+        "Rb": 6,
+        "Al": 2
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 15,
+      "formula": "H8Cl4N2",
+      "n_atoms": 14,
+      "total_energy": -61.03627681732178,
+      "energy_per_atom": -4.359734058380127,
+      "formation_energy": -0.7358409336635044,
+      "elements": {
+        "H": 8,
+        "N": 2,
+        "Cl": 4
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 16,
+      "formula": "BaF6Si",
+      "n_atoms": 8,
+      "total_energy": -49.46986389160156,
+      "energy_per_atom": -6.183732986450195,
+      "formation_energy": -3.7666704654693604,
+      "elements": {
+        "F": 6,
+        "Ba": 1,
+        "Si": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 17,
+      "formula": "Br2Cs2F5O3",
+      "n_atoms": 12,
+      "total_energy": -47.68451499938965,
+      "energy_per_atom": -3.9737095832824707,
+      "formation_energy": -1.5281591415405273,
+      "elements": {
+        "Cs": 2,
+        "F": 5,
+        "Br": 2,
+        "O": 3
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 18,
+      "formula": "Li2O9P3",
+      "n_atoms": 14,
+      "total_energy": -99.14073371887207,
+      "energy_per_atom": -7.081480979919434,
+      "formation_energy": -2.747578740119934,
+      "elements": {
+        "O": 9,
+        "Li": 2,
+        "P": 3
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 19,
+      "formula": "H2Cs2S2",
+      "n_atoms": 6,
+      "total_energy": -22.476480960845947,
+      "energy_per_atom": -3.746080160140991,
+      "formation_energy": -1.3930508295694988,
+      "elements": {
+        "Cs": 2,
+        "S": 2,
+        "H": 2
+      },
+      "ref_valid": true
+    }
+  ],
+  "top_candidates": [
+    {
+      "batch": "bg_25",
+      "index": 0,
+      "formula": "F3La",
+      "n_atoms": 4,
+      "total_energy": -28.498493194580078,
+      "energy_per_atom": -7.1246232986450195,
+      "formation_energy": -4.383407890796661,
+      "elements": {
+        "F": 3,
+        "La": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 10,
+      "formula": "LuO3Tm",
+      "n_atoms": 5,
+      "total_energy": -43.96225452423096,
+      "energy_per_atom": -8.792450904846191,
+      "formation_energy": -4.109424304962158,
+      "elements": {
+        "O": 3,
+        "Tm": 1,
+        "Lu": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_30",
+      "index": 13,
+      "formula": "F9Hf3O3Y",
+      "n_atoms": 16,
+      "total_energy": -134.0009765625,
+      "energy_per_atom": -8.37506103515625,
+      "formation_energy": -4.071837589144707,
+      "elements": {
+        "O": 3,
+        "Hf": 3,
+        "F": 9,
+        "Y": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 2,
+      "formula": "FO3Tm2",
+      "n_atoms": 6,
+      "total_energy": -48.2354850769043,
+      "energy_per_atom": -8.039247512817383,
+      "formation_energy": -3.804470181465149,
+      "elements": {
+        "Tm": 2,
+        "O": 3,
+        "F": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 16,
+      "formula": "BaF6Si",
+      "n_atoms": 8,
+      "total_energy": -49.46986389160156,
+      "energy_per_atom": -6.183732986450195,
+      "formation_energy": -3.7666704654693604,
+      "elements": {
+        "F": 6,
+        "Ba": 1,
+        "Si": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 2,
+      "formula": "ClEr2O4Pr",
+      "n_atoms": 8,
+      "total_energy": -64.92076110839844,
+      "energy_per_atom": -8.115095138549805,
+      "formation_energy": -3.74469593167305,
+      "elements": {
+        "Pr": 1,
+        "Er": 2,
+        "O": 4,
+        "Cl": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_40",
+      "index": 13,
+      "formula": "Al3B4DyO12",
+      "n_atoms": 20,
+      "total_energy": -166.9001579284668,
+      "energy_per_atom": -8.34500789642334,
+      "formation_energy": -3.6334198713302612,
+      "elements": {
+        "Al": 3,
+        "B": 4,
+        "O": 12,
+        "Dy": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_35",
+      "index": 17,
+      "formula": "CaO3Zr",
+      "n_atoms": 5,
+      "total_energy": -43.0292272567749,
+      "energy_per_atom": -8.60584545135498,
+      "formation_energy": -3.618883800506592,
+      "elements": {
+        "Zr": 1,
+        "Ca": 1,
+        "O": 3
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 0,
+      "formula": "F6NaSrTi",
+      "n_atoms": 9,
+      "total_energy": -55.45350408554077,
+      "energy_per_atom": -6.161500453948975,
+      "formation_energy": -3.615805599424574,
+      "elements": {
+        "Ti": 1,
+        "Na": 1,
+        "F": 6,
+        "Sr": 1
+      },
+      "ref_valid": true
+    },
+    {
+      "batch": "bg_45",
+      "index": 3,
+      "formula": "Dy2O6P",
+      "n_atoms": 9,
+      "total_energy": -74.24123668670654,
+      "energy_per_atom": -8.24902629852295,
+      "formation_energy": -3.5157630178663464,
+      "elements": {
+        "P": 1,
+        "O": 6,
+        "Dy": 2
+      },
+      "ref_valid": true
+    }
+  ],
+  "diverse_candidates": [
+    {
+      "batch": "bg_30",
+      "index": 13,
+      "formula": "F9Hf3O3Y",
+      "n_atoms": 16,
+      "total_energy": -134.0009765625,
+      "energy_per_atom": -8.37506103515625,
+      "formation_energy": -6.333413824439049,
+      "elements": {
+        "O": 3,
+        "Hf": 3,
+        "F": 9,
+        "Y": 1
+      }
+    },
+    {
+      "batch": "bg_25",
+      "index": 14,
+      "formula": "LiO11Re3",
+      "n_atoms": 15,
+      "total_energy": -125.56351661682129,
+      "energy_per_atom": -8.370901107788086,
+      "formation_energy": -4.71202552318573,
+      "elements": {
+        "Re": 3,
+        "O": 11,
+        "Li": 1
+      }
+    },
+    {
+      "batch": "bg_45",
+      "index": 3,
+      "formula": "Dy2O6P",
+      "n_atoms": 9,
+      "total_energy": -74.24123668670654,
+      "energy_per_atom": -8.24902629852295,
+      "formation_energy": -4.534747918446858,
+      "elements": {
+        "P": 1,
+        "O": 6,
+        "Dy": 2
+      }
+    },
+    {
+      "batch": "bg_25",
+      "index": 0,
+      "formula": "F3La",
+      "n_atoms": 4,
+      "total_energy": -28.498493194580078,
+      "energy_per_atom": -7.1246232986450195,
+      "formation_energy": -4.383407890796661,
+      "elements": {
+        "F": 3,
+        "La": 1
+      }
+    },
+    {
+      "batch": "bg_40",
+      "index": 9,
+      "formula": "DyKO2",
+      "n_atoms": 4,
+      "total_energy": -27.976055145263672,
+      "energy_per_atom": -6.994013786315918,
+      "formation_energy": -4.3129913210868835,
+      "elements": {
+        "Dy": 1,
+        "O": 2,
+        "K": 1
+      }
+    },
+    {
+      "batch": "bg_40",
+      "index": 0,
+      "formula": "F12K6Y2",
+      "n_atoms": 20,
+      "total_energy": -113.68343353271484,
+      "energy_per_atom": -5.684171676635742,
+      "formation_energy": -4.144081950187683,
+      "elements": {
+        "K": 6,
+        "Y": 2,
+        "F": 12
+      }
+    },
+    {
+      "batch": "bg_40",
+      "index": 11,
+      "formula": "F6Rb3Y",
+      "n_atoms": 10,
+      "total_energy": -56.19823455810547,
+      "energy_per_atom": -5.619823455810547,
+      "formation_energy": -4.124542641639709,
+      "elements": {
+        "F": 6,
+        "Rb": 3,
+        "Y": 1
+      }
+    },
+    {
+      "batch": "bg_45",
+      "index": 10,
+      "formula": "LuO3Tm",
+      "n_atoms": 5,
+      "total_energy": -43.96225452423096,
+      "energy_per_atom": -8.792450904846191,
+      "formation_energy": -4.109424304962158,
+      "elements": {
+        "O": 3,
+        "Tm": 1,
+        "Lu": 1
+      }
+    },
+    {
+      "batch": "bg_30",
+      "index": 12,
+      "formula": "Gd2HgNaO10Se2",
+      "n_atoms": 16,
+      "total_energy": -119.35257720947266,
+      "energy_per_atom": -7.459536075592041,
+      "formation_energy": -3.9712622463703156,
+      "elements": {
+        "Gd": 2,
+        "Na": 1,
+        "Se": 2,
+        "O": 10,
+        "Hg": 1
+      }
+    },
+    {
+      "batch": "bg_40",
+      "index": 13,
+      "formula": "Al3B4DyO12",
+      "n_atoms": 20,
+      "total_energy": -166.9001579284668,
+      "energy_per_atom": -8.34500789642334,
+      "formation_energy": -3.8626914739608766,
+      "elements": {
+        "Al": 3,
+        "B": 4,
+        "O": 12,
+        "Dy": 1
+      }
+    }
+  ],
+  "missing_ref_candidates": []
+}

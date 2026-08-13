@@ -1,0 +1,18 @@
+[
+  {
+    "cif": "li_o11re3_posrelaxed.cif",
+    "formula": "LiO11Re3",
+    "n_atoms": 15,
+    "total_energy": -98.9062,
+    "energy_per_atom": -6.5937,
+    "homo": -0.3565,
+    "lumo": 1.2859,
+    "pbe_bandgap": 1.6424,
+    "mag_moment_uB": 0.002,
+    "kpts": [
+      4,
+      4,
+      4
+    ]
+  }
+]
